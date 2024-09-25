@@ -1,0 +1,252 @@
+[
+    {
+        "name": "1951. All the Pairs With the Maximum Number of Common Followers",
+        "url": "https://leetcode.com/problems/all-the-pairs-with-the-maximum-number-of-common-followers",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1952. Three Divisors",
+        "url": "https://leetcode.com/problems/three-divisors",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1953. Maximum Number of Weeks for Which You Can Work",
+        "url": "https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1954. Minimum Garden Perimeter to Collect Enough Apples",
+        "url": "https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1955. Count Number of Special Subsequences",
+        "url": "https://leetcode.com/problems/count-number-of-special-subsequences",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1956. Minimum Time For K Virus Variants to Spread",
+        "url": "https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1957. Delete Characters to Make Fancy String",
+        "url": "https://leetcode.com/problems/delete-characters-to-make-fancy-string",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1958. Check if Move is Legal",
+        "url": "https://leetcode.com/problems/check-if-move-is-legal",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1959. Minimum Total Space Wasted With K Resizing Operations",
+        "url": "https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1960. Maximum Product of the Length of Two Palindromic Substrings",
+        "url": "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1961. Check If String Is a Prefix of Array",
+        "url": "https://leetcode.com/problems/check-if-string-is-a-prefix-of-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1962. Remove Stones to Minimize the Total",
+        "url": "https://leetcode.com/problems/remove-stones-to-minimize-the-total",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1963. Minimum Number of Swaps to Make the String Balanced",
+        "url": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1964. Find the Longest Valid Obstacle Course at Each Position",
+        "url": "https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1965. Employees With Missing Information",
+        "url": "https://leetcode.com/problems/employees-with-missing-information",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1966. Binary Searchable Numbers in an Unsorted Array",
+        "url": "https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1967. Number of Strings That Appear as Substrings in Word",
+        "url": "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1968. Array With Elements Not Equal to Average of Neighbors",
+        "url": "https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1969. Minimum Non-Zero Product of the Array Elements",
+        "url": "https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1970. Last Day Where You Can Still Cross",
+        "url": "https://leetcode.com/problems/last-day-where-you-can-still-cross",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1971. Find if Path Exists in Graph",
+        "url": "https://leetcode.com/problems/find-if-path-exists-in-graph",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1972. First and Last Call On the Same Day",
+        "url": "https://leetcode.com/problems/first-and-last-call-on-the-same-day",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1973. Count Nodes Equal to Sum of Descendants",
+        "url": "https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1974. Minimum Time to Type Word Using Special Typewriter",
+        "url": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1975. Maximum Matrix Sum",
+        "url": "https://leetcode.com/problems/maximum-matrix-sum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1976. Number of Ways to Arrive at Destination",
+        "url": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1977. Number of Ways to Separate Numbers",
+        "url": "https://leetcode.com/problems/number-of-ways-to-separate-numbers",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1978. Employees Whose Manager Left the Company",
+        "url": "https://leetcode.com/problems/employees-whose-manager-left-the-company",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1979. Find Greatest Common Divisor of Array",
+        "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1980. Find Unique Binary String",
+        "url": "https://leetcode.com/problems/find-unique-binary-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1981. Minimize the Difference Between Target and Chosen Elements",
+        "url": "https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1982. Find Array Given Subset Sums",
+        "url": "https://leetcode.com/problems/find-array-given-subset-sums",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1983. Widest Pair of Indices With Equal Range Sum",
+        "url": "https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1984. Minimum Difference Between Highest and Lowest of K Scores",
+        "url": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1985. Find the Kth Largest Integer in the Array",
+        "url": "https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1986. Minimum Number of Work Sessions to Finish the Tasks",
+        "url": "https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1987. Number of Unique Good Subsequences",
+        "url": "https://leetcode.com/problems/number-of-unique-good-subsequences",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1988. Find Cutoff Score for Each School",
+        "url": "https://leetcode.com/problems/find-cutoff-score-for-each-school",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1989. Maximum Number of People That Can Be Caught in Tag",
+        "url": "https://leetcode.com/problems/maximum-number-of-people-that-can-be-caught-in-tag",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1990. Count the Number of Experiments",
+        "url": "https://leetcode.com/problems/count-the-number-of-experiments",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1991. Find the Middle Index in Array",
+        "url": "https://leetcode.com/problems/find-the-middle-index-in-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1992. Find All Groups of Farmland",
+        "url": "https://leetcode.com/problems/find-all-groups-of-farmland",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1993. Operations on Tree",
+        "url": "https://leetcode.com/problems/operations-on-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1994. The Number of Good Subsets",
+        "url": "https://leetcode.com/problems/the-number-of-good-subsets",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1995. Count Special Quadruplets",
+        "url": "https://leetcode.com/problems/count-special-quadruplets",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1996. The Number of Weak Characters in the Game",
+        "url": "https://leetcode.com/problems/the-number-of-weak-characters-in-the-game",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1997. First Day Where You Have Been in All the Rooms",
+        "url": "https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1998. GCD Sort of an Array",
+        "url": "https://leetcode.com/problems/gcd-sort-of-an-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1999. Smallest Greater Multiple Made of Two Digits",
+        "url": "https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2000. Reverse Prefix of Word",
+        "url": "https://leetcode.com/problems/reverse-prefix-of-word",
+        "difficulty": "Easy"
+    }
+]

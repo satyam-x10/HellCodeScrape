@@ -1,0 +1,252 @@
+[
+    {
+        "name": "801. Minimum Swaps To Make Sequences Increasing",
+        "url": "https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "802. Find Eventual Safe States",
+        "url": "https://leetcode.com/problems/find-eventual-safe-states",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "803. Bricks Falling When Hit",
+        "url": "https://leetcode.com/problems/bricks-falling-when-hit",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "804. Unique Morse Code Words",
+        "url": "https://leetcode.com/problems/unique-morse-code-words",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "805. Split Array With Same Average",
+        "url": "https://leetcode.com/problems/split-array-with-same-average",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "806. Number of Lines To Write String",
+        "url": "https://leetcode.com/problems/number-of-lines-to-write-string",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "807. Max Increase to Keep City Skyline",
+        "url": "https://leetcode.com/problems/max-increase-to-keep-city-skyline",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "808. Soup Servings",
+        "url": "https://leetcode.com/problems/soup-servings",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "809. Expressive Words",
+        "url": "https://leetcode.com/problems/expressive-words",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "810. Chalkboard XOR Game",
+        "url": "https://leetcode.com/problems/chalkboard-xor-game",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "811. Subdomain Visit Count",
+        "url": "https://leetcode.com/problems/subdomain-visit-count",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "812. Largest Triangle Area",
+        "url": "https://leetcode.com/problems/largest-triangle-area",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "813. Largest Sum of Averages",
+        "url": "https://leetcode.com/problems/largest-sum-of-averages",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "814. Binary Tree Pruning",
+        "url": "https://leetcode.com/problems/binary-tree-pruning",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "815. Bus Routes",
+        "url": "https://leetcode.com/problems/bus-routes",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "816. Ambiguous Coordinates",
+        "url": "https://leetcode.com/problems/ambiguous-coordinates",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "817. Linked List Components",
+        "url": "https://leetcode.com/problems/linked-list-components",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "818. Race Car",
+        "url": "https://leetcode.com/problems/race-car",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "819. Most Common Word",
+        "url": "https://leetcode.com/problems/most-common-word",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "820. Short Encoding of Words",
+        "url": "https://leetcode.com/problems/short-encoding-of-words",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "821. Shortest Distance to a Character",
+        "url": "https://leetcode.com/problems/shortest-distance-to-a-character",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "822. Card Flipping Game",
+        "url": "https://leetcode.com/problems/card-flipping-game",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "823. Binary Trees With Factors",
+        "url": "https://leetcode.com/problems/binary-trees-with-factors",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "824. Goat Latin",
+        "url": "https://leetcode.com/problems/goat-latin",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "825. Friends Of Appropriate Ages",
+        "url": "https://leetcode.com/problems/friends-of-appropriate-ages",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "826. Most Profit Assigning Work",
+        "url": "https://leetcode.com/problems/most-profit-assigning-work",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "827. Making A Large Island",
+        "url": "https://leetcode.com/problems/making-a-large-island",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "828. Count Unique Characters of All Substrings of a Given String",
+        "url": "https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "829. Consecutive Numbers Sum",
+        "url": "https://leetcode.com/problems/consecutive-numbers-sum",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "830. Positions of Large Groups",
+        "url": "https://leetcode.com/problems/positions-of-large-groups",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "831. Masking Personal Information",
+        "url": "https://leetcode.com/problems/masking-personal-information",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "832. Flipping an Image",
+        "url": "https://leetcode.com/problems/flipping-an-image",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "833. Find And Replace in String",
+        "url": "https://leetcode.com/problems/find-and-replace-in-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "834. Sum of Distances in Tree",
+        "url": "https://leetcode.com/problems/sum-of-distances-in-tree",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "835. Image Overlap",
+        "url": "https://leetcode.com/problems/image-overlap",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "836. Rectangle Overlap",
+        "url": "https://leetcode.com/problems/rectangle-overlap",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "837. New 21 Game",
+        "url": "https://leetcode.com/problems/new-21-game",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "838. Push Dominoes",
+        "url": "https://leetcode.com/problems/push-dominoes",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "839. Similar String Groups",
+        "url": "https://leetcode.com/problems/similar-string-groups",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "840. Magic Squares In Grid",
+        "url": "https://leetcode.com/problems/magic-squares-in-grid",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "841. Keys and Rooms",
+        "url": "https://leetcode.com/problems/keys-and-rooms",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "842. Split Array into Fibonacci Sequence",
+        "url": "https://leetcode.com/problems/split-array-into-fibonacci-sequence",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "843. Guess the Word",
+        "url": "https://leetcode.com/problems/guess-the-word",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "844. Backspace String Compare",
+        "url": "https://leetcode.com/problems/backspace-string-compare",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "845. Longest Mountain in Array",
+        "url": "https://leetcode.com/problems/longest-mountain-in-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "846. Hand of Straights",
+        "url": "https://leetcode.com/problems/hand-of-straights",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "847. Shortest Path Visiting All Nodes",
+        "url": "https://leetcode.com/problems/shortest-path-visiting-all-nodes",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "848. Shifting Letters",
+        "url": "https://leetcode.com/problems/shifting-letters",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "849. Maximize Distance to Closest Person",
+        "url": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "850. Rectangle Area II",
+        "url": "https://leetcode.com/problems/rectangle-area-ii",
+        "difficulty": "Hard"
+    }
+]

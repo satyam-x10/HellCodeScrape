@@ -1,0 +1,252 @@
+[
+    {
+        "name": "1701. Average Waiting Time",
+        "url": "https://leetcode.com/problems/average-waiting-time",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1702. Maximum Binary String After Change",
+        "url": "https://leetcode.com/problems/maximum-binary-string-after-change",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1703. Minimum Adjacent Swaps for K Consecutive Ones",
+        "url": "https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1704. Determine if String Halves Are Alike",
+        "url": "https://leetcode.com/problems/determine-if-string-halves-are-alike",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1705. Maximum Number of Eaten Apples",
+        "url": "https://leetcode.com/problems/maximum-number-of-eaten-apples",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1706. Where Will the Ball Fall",
+        "url": "https://leetcode.com/problems/where-will-the-ball-fall",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1707. Maximum XOR With an Element From Array",
+        "url": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1708. Largest Subarray Length K",
+        "url": "https://leetcode.com/problems/largest-subarray-length-k",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1709. Biggest Window Between Visits",
+        "url": "https://leetcode.com/problems/biggest-window-between-visits",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1710. Maximum Units on a Truck",
+        "url": "https://leetcode.com/problems/maximum-units-on-a-truck",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1711. Count Good Meals",
+        "url": "https://leetcode.com/problems/count-good-meals",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1712. Ways to Split Array Into Three Subarrays",
+        "url": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1713. Minimum Operations to Make a Subsequence",
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-a-subsequence",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1714. Sum Of Special Evenly-Spaced Elements In Array",
+        "url": "https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1715. Count Apples and Oranges",
+        "url": "https://leetcode.com/problems/count-apples-and-oranges",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1716. Calculate Money in Leetcode Bank",
+        "url": "https://leetcode.com/problems/calculate-money-in-leetcode-bank",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1717. Maximum Score From Removing Substrings",
+        "url": "https://leetcode.com/problems/maximum-score-from-removing-substrings",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1718. Construct the Lexicographically Largest Valid Sequence",
+        "url": "https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1719. Number Of Ways To Reconstruct A Tree",
+        "url": "https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1720. Decode XORed Array",
+        "url": "https://leetcode.com/problems/decode-xored-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1721. Swapping Nodes in a Linked List",
+        "url": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1722. Minimize Hamming Distance After Swap Operations",
+        "url": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1723. Find Minimum Time to Finish All Jobs",
+        "url": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1724. Checking Existence of Edge Length Limited Paths II",
+        "url": "https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1725. Number Of Rectangles That Can Form The Largest Square",
+        "url": "https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1726. Tuple with Same Product",
+        "url": "https://leetcode.com/problems/tuple-with-same-product",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1727. Largest Submatrix With Rearrangements",
+        "url": "https://leetcode.com/problems/largest-submatrix-with-rearrangements",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1728. Cat and Mouse II",
+        "url": "https://leetcode.com/problems/cat-and-mouse-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1729. Find Followers Count",
+        "url": "https://leetcode.com/problems/find-followers-count",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1730. Shortest Path to Get Food",
+        "url": "https://leetcode.com/problems/shortest-path-to-get-food",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1731. The Number of Employees Which Report to Each Employee",
+        "url": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1732. Find the Highest Altitude",
+        "url": "https://leetcode.com/problems/find-the-highest-altitude",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1733. Minimum Number of People to Teach",
+        "url": "https://leetcode.com/problems/minimum-number-of-people-to-teach",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1734. Decode XORed Permutation",
+        "url": "https://leetcode.com/problems/decode-xored-permutation",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1735. Count Ways to Make Array With Product",
+        "url": "https://leetcode.com/problems/count-ways-to-make-array-with-product",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1736. Latest Time by Replacing Hidden Digits",
+        "url": "https://leetcode.com/problems/latest-time-by-replacing-hidden-digits",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1737. Change Minimum Characters to Satisfy One of Three Conditions",
+        "url": "https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1738. Find Kth Largest XOR Coordinate Value",
+        "url": "https://leetcode.com/problems/find-kth-largest-xor-coordinate-value",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1739. Building Boxes",
+        "url": "https://leetcode.com/problems/building-boxes",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1740. Find Distance in a Binary Tree",
+        "url": "https://leetcode.com/problems/find-distance-in-a-binary-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1741. Find Total Time Spent by Each Employee",
+        "url": "https://leetcode.com/problems/find-total-time-spent-by-each-employee",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1742. Maximum Number of Balls in a Box",
+        "url": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1743. Restore the Array From Adjacent Pairs",
+        "url": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1744. Can You Eat Your Favorite Candy on Your Favorite Day?",
+        "url": "https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1745. Palindrome Partitioning IV",
+        "url": "https://leetcode.com/problems/palindrome-partitioning-iv",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1746. Maximum Subarray Sum After One Operation",
+        "url": "https://leetcode.com/problems/maximum-subarray-sum-after-one-operation",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1747. Leetflex Banned Accounts",
+        "url": "https://leetcode.com/problems/leetflex-banned-accounts",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1748. Sum of Unique Elements",
+        "url": "https://leetcode.com/problems/sum-of-unique-elements",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1749. Maximum Absolute Sum of Any Subarray",
+        "url": "https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1750. Minimum Length of String After Deleting Similar Ends",
+        "url": "https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends",
+        "difficulty": "Medium"
+    }
+]

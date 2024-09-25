@@ -1,0 +1,252 @@
+[
+    {
+        "name": "1401. Circle and Rectangle Overlapping",
+        "url": "https://leetcode.com/problems/circle-and-rectangle-overlapping",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1402. Reducing Dishes",
+        "url": "https://leetcode.com/problems/reducing-dishes",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1403. Minimum Subsequence in Non-Increasing Order",
+        "url": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1404. Number of Steps to Reduce a Number in Binary Representation to One",
+        "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1405. Longest Happy String",
+        "url": "https://leetcode.com/problems/longest-happy-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1406. Stone Game III",
+        "url": "https://leetcode.com/problems/stone-game-iii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1407. Top Travellers",
+        "url": "https://leetcode.com/problems/top-travellers",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1408. String Matching in an Array",
+        "url": "https://leetcode.com/problems/string-matching-in-an-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1409. Queries on a Permutation With Key",
+        "url": "https://leetcode.com/problems/queries-on-a-permutation-with-key",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1410. HTML Entity Parser",
+        "url": "https://leetcode.com/problems/html-entity-parser",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1411. Number of Ways to Paint N × 3 Grid",
+        "url": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1412. Find the Quiet Students in All Exams",
+        "url": "https://leetcode.com/problems/find-the-quiet-students-in-all-exams",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1413. Minimum Value to Get Positive Step by Step Sum",
+        "url": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K",
+        "url": "https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1415. The k-th Lexicographical String of All Happy Strings of Length n",
+        "url": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1416. Restore The Array",
+        "url": "https://leetcode.com/problems/restore-the-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1417. Reformat The String",
+        "url": "https://leetcode.com/problems/reformat-the-string",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1418. Display Table of Food Orders in a Restaurant",
+        "url": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1419. Minimum Number of Frogs Croaking",
+        "url": "https://leetcode.com/problems/minimum-number-of-frogs-croaking",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1420. Build Array Where You Can Find The Maximum Exactly K Comparisons",
+        "url": "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1421. NPV Queries",
+        "url": "https://leetcode.com/problems/npv-queries",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1422. Maximum Score After Splitting a String",
+        "url": "https://leetcode.com/problems/maximum-score-after-splitting-a-string",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1423. Maximum Points You Can Obtain from Cards",
+        "url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1424. Diagonal Traverse II",
+        "url": "https://leetcode.com/problems/diagonal-traverse-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1425. Constrained Subsequence Sum",
+        "url": "https://leetcode.com/problems/constrained-subsequence-sum",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1426. Counting Elements",
+        "url": "https://leetcode.com/problems/counting-elements",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1427. Perform String Shifts",
+        "url": "https://leetcode.com/problems/perform-string-shifts",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1428. Leftmost Column with at Least a One",
+        "url": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1429. First Unique Number",
+        "url": "https://leetcode.com/problems/first-unique-number",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1430. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree",
+        "url": "https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1431. Kids With the Greatest Number of Candies",
+        "url": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1432. Max Difference You Can Get From Changing an Integer",
+        "url": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1433. Check If a String Can Break Another String",
+        "url": "https://leetcode.com/problems/check-if-a-string-can-break-another-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1434. Number of Ways to Wear Different Hats to Each Other",
+        "url": "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1435. Create a Session Bar Chart",
+        "url": "https://leetcode.com/problems/create-a-session-bar-chart",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1436. Destination City",
+        "url": "https://leetcode.com/problems/destination-city",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1437. Check If All 1's Are at Least Length K Places Away",
+        "url": "https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "url": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows",
+        "url": "https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1440. Evaluate Boolean Expression",
+        "url": "https://leetcode.com/problems/evaluate-boolean-expression",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1441. Build an Array With Stack Operations",
+        "url": "https://leetcode.com/problems/build-an-array-with-stack-operations",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1442. Count Triplets That Can Form Two Arrays of Equal XOR",
+        "url": "https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1443. Minimum Time to Collect All Apples in a Tree",
+        "url": "https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1444. Number of Ways of Cutting a Pizza",
+        "url": "https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1445. Apples & Oranges",
+        "url": "https://leetcode.com/problems/apples-oranges",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1446. Consecutive Characters",
+        "url": "https://leetcode.com/problems/consecutive-characters",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1447. Simplified Fractions",
+        "url": "https://leetcode.com/problems/simplified-fractions",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1448. Count Good Nodes in Binary Tree",
+        "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1449. Form Largest Integer With Digits That Add up to Target",
+        "url": "https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1450. Number of Students Doing Homework at a Given Time",
+        "url": "https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time",
+        "difficulty": "Easy"
+    }
+]

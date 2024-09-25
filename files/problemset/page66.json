@@ -1,0 +1,242 @@
+[
+    {
+        "name": "3251. Find the Count of Monotonic Pairs II",
+        "url": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3252. Premier League Table Ranking II",
+        "url": "https://leetcode.com/problems/premier-league-table-ranking-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3253. Construct String with Minimum Cost (Easy)",
+        "url": "https://leetcode.com/problems/construct-string-with-minimum-cost-easy",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3254. Find the Power of K-Size Subarrays I",
+        "url": "https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3255. Find the Power of K-Size Subarrays II",
+        "url": "https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3256. Maximum Value Sum by Placing Three Rooks I",
+        "url": "https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3257. Maximum Value Sum by Placing Three Rooks II",
+        "url": "https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3258. Count Substrings That Satisfy K-Constraint I",
+        "url": "https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3259. Maximum Energy Boost From Two Drinks",
+        "url": "https://leetcode.com/problems/maximum-energy-boost-from-two-drinks",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3260. Find the Largest Palindrome Divisible by K",
+        "url": "https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3261. Count Substrings That Satisfy K-Constraint II",
+        "url": "https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3262. Find Overlapping Shifts",
+        "url": "https://leetcode.com/problems/find-overlapping-shifts",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3263. Convert Doubly Linked List to Array I",
+        "url": "https://leetcode.com/problems/convert-doubly-linked-list-to-array-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3264. Final Array State After K Multiplication Operations I",
+        "url": "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3265. Count Almost Equal Pairs I",
+        "url": "https://leetcode.com/problems/count-almost-equal-pairs-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3266. Final Array State After K Multiplication Operations II",
+        "url": "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3267. Count Almost Equal Pairs II",
+        "url": "https://leetcode.com/problems/count-almost-equal-pairs-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3268. Find Overlapping Shifts II",
+        "url": "https://leetcode.com/problems/find-overlapping-shifts-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3269. Constructing Two Increasing Arrays",
+        "url": "https://leetcode.com/problems/constructing-two-increasing-arrays",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3270. Find the Key of the Numbers",
+        "url": "https://leetcode.com/problems/find-the-key-of-the-numbers",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3271. Hash Divided String",
+        "url": "https://leetcode.com/problems/hash-divided-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3272. Find the Count of Good Integers",
+        "url": "https://leetcode.com/problems/find-the-count-of-good-integers",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3273. Minimum Amount of Damage Dealt to Bob",
+        "url": "https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3274. Check if Two Chessboard Squares Have the Same Color",
+        "url": "https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3275. K-th Nearest Obstacle Queries",
+        "url": "https://leetcode.com/problems/k-th-nearest-obstacle-queries",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3276. Select Cells in Grid With Maximum Score",
+        "url": "https://leetcode.com/problems/select-cells-in-grid-with-maximum-score",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3277. Maximum XOR Score Subarray Queries",
+        "url": "https://leetcode.com/problems/maximum-xor-score-subarray-queries",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3278. Find Candidates for Data Scientist Position II",
+        "url": "https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3279. Maximum Total Area Occupied by Pistons",
+        "url": "https://leetcode.com/problems/maximum-total-area-occupied-by-pistons",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3280. Convert Date to Binary",
+        "url": "https://leetcode.com/problems/convert-date-to-binary",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3281. Maximize Score of Numbers in Ranges",
+        "url": "https://leetcode.com/problems/maximize-score-of-numbers-in-ranges",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3282. Reach End of Array With Max Score",
+        "url": "https://leetcode.com/problems/reach-end-of-array-with-max-score",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3283. Maximum Number of Moves to Kill All Pawns",
+        "url": "https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3284. Sum of Consecutive Subarrays",
+        "url": "https://leetcode.com/problems/sum-of-consecutive-subarrays",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3285. Find Indices of Stable Mountains",
+        "url": "https://leetcode.com/problems/find-indices-of-stable-mountains",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3286. Find a Safe Walk Through a Grid",
+        "url": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3287. Find the Maximum Sequence Value of Array",
+        "url": "https://leetcode.com/problems/find-the-maximum-sequence-value-of-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3288. Length of the Longest Increasing Path",
+        "url": "https://leetcode.com/problems/length-of-the-longest-increasing-path",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3289. The Two Sneaky Numbers of Digitville",
+        "url": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3290. Maximum Multiplication Score",
+        "url": "https://leetcode.com/problems/maximum-multiplication-score",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3291. Minimum Number of Valid Strings to Form Target I",
+        "url": "https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3292. Minimum Number of Valid Strings to Form Target II",
+        "url": "https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3293. Calculate Product Final Price",
+        "url": "https://leetcode.com/problems/calculate-product-final-price",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3294. Convert Doubly Linked List to Array II",
+        "url": "https://leetcode.com/problems/convert-doubly-linked-list-to-array-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3295. Report Spam Message",
+        "url": "https://leetcode.com/problems/report-spam-message",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3296. Minimum Number of Seconds to Make Mountain Height Zero",
+        "url": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3297. Count Substrings That Can Be Rearranged to Contain a String I",
+        "url": "https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3298. Count Substrings That Can Be Rearranged to Contain a String II",
+        "url": "https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii",
+        "difficulty": "Hard"
+    }
+]

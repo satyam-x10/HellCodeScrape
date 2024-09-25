@@ -1,0 +1,252 @@
+[
+    {
+        "name": "2851. String Transformation",
+        "url": "https://leetcode.com/problems/string-transformation",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2852. Sum of Remoteness of All Cells",
+        "url": "https://leetcode.com/problems/sum-of-remoteness-of-all-cells",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2853. Highest Salaries Difference",
+        "url": "https://leetcode.com/problems/highest-salaries-difference",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2854. Rolling Average Steps",
+        "url": "https://leetcode.com/problems/rolling-average-steps",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2855. Minimum Right Shifts to Sort the Array",
+        "url": "https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2856. Minimum Array Length After Pair Removals",
+        "url": "https://leetcode.com/problems/minimum-array-length-after-pair-removals",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2857. Count Pairs of Points With Distance k",
+        "url": "https://leetcode.com/problems/count-pairs-of-points-with-distance-k",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2858. Minimum Edge Reversals So Every Node Is Reachable",
+        "url": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2859. Sum of Values at Indices With K Set Bits",
+        "url": "https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2860. Happy Students",
+        "url": "https://leetcode.com/problems/happy-students",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2861. Maximum Number of Alloys",
+        "url": "https://leetcode.com/problems/maximum-number-of-alloys",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2862. Maximum Element-Sum of a Complete Subset of Indices",
+        "url": "https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2863. Maximum Length of Semi-Decreasing Subarrays",
+        "url": "https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2864. Maximum Odd Binary Number",
+        "url": "https://leetcode.com/problems/maximum-odd-binary-number",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2865. Beautiful Towers I",
+        "url": "https://leetcode.com/problems/beautiful-towers-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2866. Beautiful Towers II",
+        "url": "https://leetcode.com/problems/beautiful-towers-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2867. Count Valid Paths in a Tree",
+        "url": "https://leetcode.com/problems/count-valid-paths-in-a-tree",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2868. The Wording Game",
+        "url": "https://leetcode.com/problems/the-wording-game",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2869. Minimum Operations to Collect Elements",
+        "url": "https://leetcode.com/problems/minimum-operations-to-collect-elements",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2870. Minimum Number of Operations to Make Array Empty",
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2871. Split Array Into Maximum Number of Subarrays",
+        "url": "https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2872. Maximum Number of K-Divisible Components",
+        "url": "https://leetcode.com/problems/maximum-number-of-k-divisible-components",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2873. Maximum Value of an Ordered Triplet I",
+        "url": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2874. Maximum Value of an Ordered Triplet II",
+        "url": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2875. Minimum Size Subarray in Infinite Array",
+        "url": "https://leetcode.com/problems/minimum-size-subarray-in-infinite-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2876. Count Visited Nodes in a Directed Graph",
+        "url": "https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2877. Create a DataFrame from List",
+        "url": "https://leetcode.com/problems/create-a-dataframe-from-list",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2878. Get the Size of a DataFrame",
+        "url": "https://leetcode.com/problems/get-the-size-of-a-dataframe",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2879. Display the First Three Rows",
+        "url": "https://leetcode.com/problems/display-the-first-three-rows",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2880. Select Data",
+        "url": "https://leetcode.com/problems/select-data",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2881. Create a New Column",
+        "url": "https://leetcode.com/problems/create-a-new-column",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2882. Drop Duplicate Rows",
+        "url": "https://leetcode.com/problems/drop-duplicate-rows",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2883. Drop Missing Data",
+        "url": "https://leetcode.com/problems/drop-missing-data",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2884. Modify Columns",
+        "url": "https://leetcode.com/problems/modify-columns",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2885. Rename Columns",
+        "url": "https://leetcode.com/problems/rename-columns",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2886. Change Data Type",
+        "url": "https://leetcode.com/problems/change-data-type",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2887. Fill Missing Data",
+        "url": "https://leetcode.com/problems/fill-missing-data",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2888. Reshape Data: Concatenate",
+        "url": "https://leetcode.com/problems/reshape-data-concatenate",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2889. Reshape Data: Pivot",
+        "url": "https://leetcode.com/problems/reshape-data-pivot",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2890. Reshape Data: Melt",
+        "url": "https://leetcode.com/problems/reshape-data-melt",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2891. Method Chaining",
+        "url": "https://leetcode.com/problems/method-chaining",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2892. Minimizing Array After Replacing Pairs With Their Product",
+        "url": "https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2893. Calculate Orders Within Each Interval",
+        "url": "https://leetcode.com/problems/calculate-orders-within-each-interval",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2894. Divisible and Non-divisible Sums Difference",
+        "url": "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2895. Minimum Processing Time",
+        "url": "https://leetcode.com/problems/minimum-processing-time",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2896. Apply Operations to Make Two Strings Equal",
+        "url": "https://leetcode.com/problems/apply-operations-to-make-two-strings-equal",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2897. Apply Operations on Array to Maximize Sum of Squares",
+        "url": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2898. Maximum Linear Stock Score",
+        "url": "https://leetcode.com/problems/maximum-linear-stock-score",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2899. Last Visited Integers",
+        "url": "https://leetcode.com/problems/last-visited-integers",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2900. Longest Unequal Adjacent Groups Subsequence I",
+        "url": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+        "difficulty": "Easy"
+    }
+]

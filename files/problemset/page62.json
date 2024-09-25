@@ -1,0 +1,252 @@
+[
+    {
+        "name": "3051. Find Candidates for Data Scientist Position",
+        "url": "https://leetcode.com/problems/find-candidates-for-data-scientist-position",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3052. Maximize Items",
+        "url": "https://leetcode.com/problems/maximize-items",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3053. Classifying Triangles by Lengths",
+        "url": "https://leetcode.com/problems/classifying-triangles-by-lengths",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3054. Binary Tree Nodes",
+        "url": "https://leetcode.com/problems/binary-tree-nodes",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3055. Top Percentile Fraud",
+        "url": "https://leetcode.com/problems/top-percentile-fraud",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3056. Snaps Analysis",
+        "url": "https://leetcode.com/problems/snaps-analysis",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3057. Employees Project Allocation",
+        "url": "https://leetcode.com/problems/employees-project-allocation",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3058. Friends With No Mutual Friends",
+        "url": "https://leetcode.com/problems/friends-with-no-mutual-friends",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3059. Find All Unique Email Domains",
+        "url": "https://leetcode.com/problems/find-all-unique-email-domains",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3060. User Activities within Time Bounds",
+        "url": "https://leetcode.com/problems/user-activities-within-time-bounds",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3061. Calculate Trapping Rain Water",
+        "url": "https://leetcode.com/problems/calculate-trapping-rain-water",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3062. Winner of the Linked List Game",
+        "url": "https://leetcode.com/problems/winner-of-the-linked-list-game",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3063. Linked List Frequency",
+        "url": "https://leetcode.com/problems/linked-list-frequency",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3064. Guess the Number Using Bitwise Questions I",
+        "url": "https://leetcode.com/problems/guess-the-number-using-bitwise-questions-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3065. Minimum Operations to Exceed Threshold Value I",
+        "url": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3066. Minimum Operations to Exceed Threshold Value II",
+        "url": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3067. Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "url": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3068. Find the Maximum Sum of Node Values",
+        "url": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3069. Distribute Elements Into Two Arrays I",
+        "url": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3070. Count Submatrices with Top-Left Element and Sum Less Than k",
+        "url": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3071. Minimum Operations to Write the Letter Y on a Grid",
+        "url": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3072. Distribute Elements Into Two Arrays II",
+        "url": "https://leetcode.com/problems/distribute-elements-into-two-arrays-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3073. Maximum Increasing Triplet Value",
+        "url": "https://leetcode.com/problems/maximum-increasing-triplet-value",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3074. Apple Redistribution into Boxes",
+        "url": "https://leetcode.com/problems/apple-redistribution-into-boxes",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3075. Maximize Happiness of Selected Children",
+        "url": "https://leetcode.com/problems/maximize-happiness-of-selected-children",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3076. Shortest Uncommon Substring in an Array",
+        "url": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3077. Maximum Strength of K Disjoint Subarrays",
+        "url": "https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3078. Match Alphanumerical Pattern in Matrix I",
+        "url": "https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3079. Find the Sum of Encrypted Integers",
+        "url": "https://leetcode.com/problems/find-the-sum-of-encrypted-integers",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3080. Mark Elements on Array by Performing Queries",
+        "url": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3081. Replace Question Marks in String to Minimize Its Value",
+        "url": "https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3082. Find the Sum of the Power of All Subsequences",
+        "url": "https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3083. Existence of a Substring in a String and Its Reverse",
+        "url": "https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3084. Count Substrings Starting and Ending with Given Character",
+        "url": "https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3085. Minimum Deletions to Make String K-Special",
+        "url": "https://leetcode.com/problems/minimum-deletions-to-make-string-k-special",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3086. Minimum Moves to Pick K Ones",
+        "url": "https://leetcode.com/problems/minimum-moves-to-pick-k-ones",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3087. Find Trending Hashtags",
+        "url": "https://leetcode.com/problems/find-trending-hashtags",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3088. Make String Anti-palindrome",
+        "url": "https://leetcode.com/problems/make-string-anti-palindrome",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3089. Find Bursty Behavior",
+        "url": "https://leetcode.com/problems/find-bursty-behavior",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3090. Maximum Length Substring With Two Occurrences",
+        "url": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3091. Apply Operations to Make Sum of Array Greater Than or Equal to k",
+        "url": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3092. Most Frequent IDs",
+        "url": "https://leetcode.com/problems/most-frequent-ids",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3093. Longest Common Suffix Queries",
+        "url": "https://leetcode.com/problems/longest-common-suffix-queries",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3094. Guess the Number Using Bitwise Questions II",
+        "url": "https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3095. Shortest Subarray With OR at Least K I",
+        "url": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3096. Minimum Levels to Gain More Points",
+        "url": "https://leetcode.com/problems/minimum-levels-to-gain-more-points",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3097. Shortest Subarray With OR at Least K II",
+        "url": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3098. Find the Sum of Subsequence Powers",
+        "url": "https://leetcode.com/problems/find-the-sum-of-subsequence-powers",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3099. Harshad Number",
+        "url": "https://leetcode.com/problems/harshad-number",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3100. Water Bottles II",
+        "url": "https://leetcode.com/problems/water-bottles-ii",
+        "difficulty": "Medium"
+    }
+]

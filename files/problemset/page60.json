@@ -1,0 +1,252 @@
+[
+    {
+        "name": "2951. Find the Peaks",
+        "url": "https://leetcode.com/problems/find-the-peaks",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2952. Minimum Number of Coins to be Added",
+        "url": "https://leetcode.com/problems/minimum-number-of-coins-to-be-added",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2953. Count Complete Substrings",
+        "url": "https://leetcode.com/problems/count-complete-substrings",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2954. Count the Number of Infection Sequences",
+        "url": "https://leetcode.com/problems/count-the-number-of-infection-sequences",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2955. Number of Same-End Substrings",
+        "url": "https://leetcode.com/problems/number-of-same-end-substrings",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2956. Find Common Elements Between Two Arrays",
+        "url": "https://leetcode.com/problems/find-common-elements-between-two-arrays",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2957. Remove Adjacent Almost-Equal Characters",
+        "url": "https://leetcode.com/problems/remove-adjacent-almost-equal-characters",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2958. Length of Longest Subarray With at Most K Frequency",
+        "url": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2959. Number of Possible Sets of Closing Branches",
+        "url": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2960. Count Tested Devices After Test Operations",
+        "url": "https://leetcode.com/problems/count-tested-devices-after-test-operations",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2961. Double Modular Exponentiation",
+        "url": "https://leetcode.com/problems/double-modular-exponentiation",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2962. Count Subarrays Where Max Element Appears at Least K Times",
+        "url": "https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2963. Count the Number of Good Partitions",
+        "url": "https://leetcode.com/problems/count-the-number-of-good-partitions",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2964. Number of Divisible Triplet Sums",
+        "url": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2965. Find Missing and Repeated Values",
+        "url": "https://leetcode.com/problems/find-missing-and-repeated-values",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2966. Divide Array Into Arrays With Max Difference",
+        "url": "https://leetcode.com/problems/divide-array-into-arrays-with-max-difference",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2967. Minimum Cost to Make Array Equalindromic",
+        "url": "https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2968. Apply Operations to Maximize Frequency Score",
+        "url": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2969. Minimum Number of Coins for Fruits II",
+        "url": "https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2970. Count the Number of Incremovable Subarrays I",
+        "url": "https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2971. Find Polygon With the Largest Perimeter",
+        "url": "https://leetcode.com/problems/find-polygon-with-the-largest-perimeter",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2972. Count the Number of Incremovable Subarrays II",
+        "url": "https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2973. Find Number of Coins to Place in Tree Nodes",
+        "url": "https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2974. Minimum Number Game",
+        "url": "https://leetcode.com/problems/minimum-number-game",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2975. Maximum Square Area by Removing Fences From a Field",
+        "url": "https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2976. Minimum Cost to Convert String I",
+        "url": "https://leetcode.com/problems/minimum-cost-to-convert-string-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2977. Minimum Cost to Convert String II",
+        "url": "https://leetcode.com/problems/minimum-cost-to-convert-string-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2978. Symmetric Coordinates",
+        "url": "https://leetcode.com/problems/symmetric-coordinates",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2979. Most Expensive Item That Can Not Be Bought",
+        "url": "https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2980. Check if Bitwise OR Has Trailing Zeros",
+        "url": "https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2981. Find Longest Special Substring That Occurs Thrice I",
+        "url": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2982. Find Longest Special Substring That Occurs Thrice II",
+        "url": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2983. Palindrome Rearrangement Queries",
+        "url": "https://leetcode.com/problems/palindrome-rearrangement-queries",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2984. Find Peak Calling Hours for Each City",
+        "url": "https://leetcode.com/problems/find-peak-calling-hours-for-each-city",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2985. Calculate Compressed Mean",
+        "url": "https://leetcode.com/problems/calculate-compressed-mean",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2986. Find Third Transaction",
+        "url": "https://leetcode.com/problems/find-third-transaction",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2987. Find Expensive Cities",
+        "url": "https://leetcode.com/problems/find-expensive-cities",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2988. Manager of the Largest Department",
+        "url": "https://leetcode.com/problems/manager-of-the-largest-department",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2989. Class Performance",
+        "url": "https://leetcode.com/problems/class-performance",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2990. Loan Types",
+        "url": "https://leetcode.com/problems/loan-types",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2991. Top Three Wineries",
+        "url": "https://leetcode.com/problems/top-three-wineries",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2992. Number of Self-Divisible Permutations",
+        "url": "https://leetcode.com/problems/number-of-self-divisible-permutations",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2993. Friday Purchases I",
+        "url": "https://leetcode.com/problems/friday-purchases-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2994. Friday Purchases II",
+        "url": "https://leetcode.com/problems/friday-purchases-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2995. Viewers Turned Streamers",
+        "url": "https://leetcode.com/problems/viewers-turned-streamers",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2996. Smallest Missing Integer Greater Than Sequential Prefix Sum",
+        "url": "https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2997. Minimum Number of Operations to Make Array XOR Equal to K",
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2998. Minimum Number of Operations to Make X and Y Equal",
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2999. Count the Number of Powerful Integers",
+        "url": "https://leetcode.com/problems/count-the-number-of-powerful-integers",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3000. Maximum Area of Longest Diagonal Rectangle",
+        "url": "https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle",
+        "difficulty": "Easy"
+    }
+]

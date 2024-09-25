@@ -1,0 +1,252 @@
+[
+    {
+        "name": "1451. Rearrange Words in a Sentence",
+        "url": "https://leetcode.com/problems/rearrange-words-in-a-sentence",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1452. People Whose List of Favorite Companies Is Not a Subset of Another List",
+        "url": "https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1453. Maximum Number of Darts Inside of a Circular Dartboard",
+        "url": "https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1454. Active Users",
+        "url": "https://leetcode.com/problems/active-users",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+        "url": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1456. Maximum Number of Vowels in a Substring of Given Length",
+        "url": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1457. Pseudo-Palindromic Paths in a Binary Tree",
+        "url": "https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1458. Max Dot Product of Two Subsequences",
+        "url": "https://leetcode.com/problems/max-dot-product-of-two-subsequences",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1459. Rectangles Area",
+        "url": "https://leetcode.com/problems/rectangles-area",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1460. Make Two Arrays Equal by Reversing Subarrays",
+        "url": "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1461. Check If a String Contains All Binary Codes of Size K",
+        "url": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1462. Course Schedule IV",
+        "url": "https://leetcode.com/problems/course-schedule-iv",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1463. Cherry Pickup II",
+        "url": "https://leetcode.com/problems/cherry-pickup-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1464. Maximum Product of Two Elements in an Array",
+        "url": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+        "url": "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1466. Reorder Routes to Make All Paths Lead to the City Zero",
+        "url": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1467. Probability of a Two Boxes Having The Same Number of Distinct Balls",
+        "url": "https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1468. Calculate Salaries",
+        "url": "https://leetcode.com/problems/calculate-salaries",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1469. Find All The Lonely Nodes",
+        "url": "https://leetcode.com/problems/find-all-the-lonely-nodes",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1470. Shuffle the Array",
+        "url": "https://leetcode.com/problems/shuffle-the-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1471. The k Strongest Values in an Array",
+        "url": "https://leetcode.com/problems/the-k-strongest-values-in-an-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1472. Design Browser History",
+        "url": "https://leetcode.com/problems/design-browser-history",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1473. Paint House III",
+        "url": "https://leetcode.com/problems/paint-house-iii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1474. Delete N Nodes After M Nodes of a Linked List",
+        "url": "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1475. Final Prices With a Special Discount in a Shop",
+        "url": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1476. Subrectangle Queries",
+        "url": "https://leetcode.com/problems/subrectangle-queries",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1477. Find Two Non-overlapping Sub-arrays Each With Target Sum",
+        "url": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1478. Allocate Mailboxes",
+        "url": "https://leetcode.com/problems/allocate-mailboxes",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1479. Sales by Day of the Week",
+        "url": "https://leetcode.com/problems/sales-by-day-of-the-week",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1480. Running Sum of 1d Array",
+        "url": "https://leetcode.com/problems/running-sum-of-1d-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1481. Least Number of Unique Integers after K Removals",
+        "url": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1482. Minimum Number of Days to Make m Bouquets",
+        "url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1483. Kth Ancestor of a Tree Node",
+        "url": "https://leetcode.com/problems/kth-ancestor-of-a-tree-node",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1484. Group Sold Products By The Date",
+        "url": "https://leetcode.com/problems/group-sold-products-by-the-date",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1485. Clone Binary Tree With Random Pointer",
+        "url": "https://leetcode.com/problems/clone-binary-tree-with-random-pointer",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1486. XOR Operation in an Array",
+        "url": "https://leetcode.com/problems/xor-operation-in-an-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1487. Making File Names Unique",
+        "url": "https://leetcode.com/problems/making-file-names-unique",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1488. Avoid Flood in The City",
+        "url": "https://leetcode.com/problems/avoid-flood-in-the-city",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+        "url": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1490. Clone N-ary Tree",
+        "url": "https://leetcode.com/problems/clone-n-ary-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1491. Average Salary Excluding the Minimum and Maximum Salary",
+        "url": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1492. The kth Factor of n",
+        "url": "https://leetcode.com/problems/the-kth-factor-of-n",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1493. Longest Subarray of 1's After Deleting One Element",
+        "url": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1494. Parallel Courses II",
+        "url": "https://leetcode.com/problems/parallel-courses-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1495. Friendly Movies Streamed Last Month",
+        "url": "https://leetcode.com/problems/friendly-movies-streamed-last-month",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1496. Path Crossing",
+        "url": "https://leetcode.com/problems/path-crossing",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1497. Check If Array Pairs Are Divisible by k",
+        "url": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1498. Number of Subsequences That Satisfy the Given Sum Condition",
+        "url": "https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1499. Max Value of Equation",
+        "url": "https://leetcode.com/problems/max-value-of-equation",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1500. Design a File Sharing System",
+        "url": "https://leetcode.com/problems/design-a-file-sharing-system",
+        "difficulty": "Medium"
+    }
+]

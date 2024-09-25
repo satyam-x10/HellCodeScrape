@@ -1,0 +1,252 @@
+[
+    {
+        "name": "1251. Average Selling Price",
+        "url": "https://leetcode.com/problems/average-selling-price",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1252. Cells with Odd Values in a Matrix",
+        "url": "https://leetcode.com/problems/cells-with-odd-values-in-a-matrix",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1253. Reconstruct a 2-Row Binary Matrix",
+        "url": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1254. Number of Closed Islands",
+        "url": "https://leetcode.com/problems/number-of-closed-islands",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1255. Maximum Score Words Formed by Letters",
+        "url": "https://leetcode.com/problems/maximum-score-words-formed-by-letters",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1256. Encode Number",
+        "url": "https://leetcode.com/problems/encode-number",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1257. Smallest Common Region",
+        "url": "https://leetcode.com/problems/smallest-common-region",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1258. Synonymous Sentences",
+        "url": "https://leetcode.com/problems/synonymous-sentences",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1259. Handshakes That Don't Cross",
+        "url": "https://leetcode.com/problems/handshakes-that-dont-cross",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1260. Shift 2D Grid",
+        "url": "https://leetcode.com/problems/shift-2d-grid",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1261. Find Elements in a Contaminated Binary Tree",
+        "url": "https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1262. Greatest Sum Divisible by Three",
+        "url": "https://leetcode.com/problems/greatest-sum-divisible-by-three",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1263. Minimum Moves to Move a Box to Their Target Location",
+        "url": "https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1264. Page Recommendations",
+        "url": "https://leetcode.com/problems/page-recommendations",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1265. Print Immutable Linked List in Reverse",
+        "url": "https://leetcode.com/problems/print-immutable-linked-list-in-reverse",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1266. Minimum Time Visiting All Points",
+        "url": "https://leetcode.com/problems/minimum-time-visiting-all-points",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1267. Count Servers that Communicate",
+        "url": "https://leetcode.com/problems/count-servers-that-communicate",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1268. Search Suggestions System",
+        "url": "https://leetcode.com/problems/search-suggestions-system",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1269. Number of Ways to Stay in the Same Place After Some Steps",
+        "url": "https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1270. All People Report to the Given Manager",
+        "url": "https://leetcode.com/problems/all-people-report-to-the-given-manager",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1271. Hexspeak",
+        "url": "https://leetcode.com/problems/hexspeak",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1272. Remove Interval",
+        "url": "https://leetcode.com/problems/remove-interval",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1273. Delete Tree Nodes",
+        "url": "https://leetcode.com/problems/delete-tree-nodes",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1274. Number of Ships in a Rectangle",
+        "url": "https://leetcode.com/problems/number-of-ships-in-a-rectangle",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1275. Find Winner on a Tic Tac Toe Game",
+        "url": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1276. Number of Burgers with No Waste of Ingredients",
+        "url": "https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1277. Count Square Submatrices with All Ones",
+        "url": "https://leetcode.com/problems/count-square-submatrices-with-all-ones",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1278. Palindrome Partitioning III",
+        "url": "https://leetcode.com/problems/palindrome-partitioning-iii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1279. Traffic Light Controlled Intersection",
+        "url": "https://leetcode.com/problems/traffic-light-controlled-intersection",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1280. Students and Examinations",
+        "url": "https://leetcode.com/problems/students-and-examinations",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1281. Subtract the Product and Sum of Digits of an Integer",
+        "url": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1282. Group the People Given the Group Size They Belong To",
+        "url": "https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1283. Find the Smallest Divisor Given a Threshold",
+        "url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+        "url": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1285. Find the Start and End Number of Continuous Ranges",
+        "url": "https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1286. Iterator for Combination",
+        "url": "https://leetcode.com/problems/iterator-for-combination",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1287. Element Appearing More Than 25% In Sorted Array",
+        "url": "https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1288. Remove Covered Intervals",
+        "url": "https://leetcode.com/problems/remove-covered-intervals",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1289. Minimum Falling Path Sum II",
+        "url": "https://leetcode.com/problems/minimum-falling-path-sum-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1290. Convert Binary Number in a Linked List to Integer",
+        "url": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1291. Sequential Digits",
+        "url": "https://leetcode.com/problems/sequential-digits",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+        "url": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1293. Shortest Path in a Grid with Obstacles Elimination",
+        "url": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1294. Weather Type in Each Country",
+        "url": "https://leetcode.com/problems/weather-type-in-each-country",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1295. Find Numbers with Even Number of Digits",
+        "url": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1296. Divide Array in Sets of K Consecutive Numbers",
+        "url": "https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1297. Maximum Number of Occurrences of a Substring",
+        "url": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1298. Maximum Candies You Can Get from Boxes",
+        "url": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1299. Replace Elements with Greatest Element on Right Side",
+        "url": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1300. Sum of Mutated Array Closest to Target",
+        "url": "https://leetcode.com/problems/sum-of-mutated-array-closest-to-target",
+        "difficulty": "Medium"
+    }
+]

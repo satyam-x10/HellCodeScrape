@@ -1,0 +1,252 @@
+[
+    {
+        "name": "1751. Maximum Number of Events That Can Be Attended II",
+        "url": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1752. Check if Array Is Sorted and Rotated",
+        "url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1753. Maximum Score From Removing Stones",
+        "url": "https://leetcode.com/problems/maximum-score-from-removing-stones",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1754. Largest Merge Of Two Strings",
+        "url": "https://leetcode.com/problems/largest-merge-of-two-strings",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1755. Closest Subsequence Sum",
+        "url": "https://leetcode.com/problems/closest-subsequence-sum",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1756. Design Most Recently Used Queue",
+        "url": "https://leetcode.com/problems/design-most-recently-used-queue",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1757. Recyclable and Low Fat Products",
+        "url": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1758. Minimum Changes To Make Alternating Binary String",
+        "url": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1759. Count Number of Homogenous Substrings",
+        "url": "https://leetcode.com/problems/count-number-of-homogenous-substrings",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1760. Minimum Limit of Balls in a Bag",
+        "url": "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1761. Minimum Degree of a Connected Trio in a Graph",
+        "url": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1762. Buildings With an Ocean View",
+        "url": "https://leetcode.com/problems/buildings-with-an-ocean-view",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1763. Longest Nice Substring",
+        "url": "https://leetcode.com/problems/longest-nice-substring",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1764. Form Array by Concatenating Subarrays of Another Array",
+        "url": "https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1765. Map of Highest Peak",
+        "url": "https://leetcode.com/problems/map-of-highest-peak",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1766. Tree of Coprimes",
+        "url": "https://leetcode.com/problems/tree-of-coprimes",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1767. Find the Subtasks That Did Not Execute",
+        "url": "https://leetcode.com/problems/find-the-subtasks-that-did-not-execute",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1768. Merge Strings Alternately",
+        "url": "https://leetcode.com/problems/merge-strings-alternately",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1769. Minimum Number of Operations to Move All Balls to Each Box",
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1770. Maximum Score from Performing Multiplication Operations",
+        "url": "https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1771. Maximize Palindrome Length From Subsequences",
+        "url": "https://leetcode.com/problems/maximize-palindrome-length-from-subsequences",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1772. Sort Features by Popularity",
+        "url": "https://leetcode.com/problems/sort-features-by-popularity",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1773. Count Items Matching a Rule",
+        "url": "https://leetcode.com/problems/count-items-matching-a-rule",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1774. Closest Dessert Cost",
+        "url": "https://leetcode.com/problems/closest-dessert-cost",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1775. Equal Sum Arrays With Minimum Number of Operations",
+        "url": "https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1776. Car Fleet II",
+        "url": "https://leetcode.com/problems/car-fleet-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1777. Product's Price for Each Store",
+        "url": "https://leetcode.com/problems/products-price-for-each-store",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1778. Shortest Path in a Hidden Grid",
+        "url": "https://leetcode.com/problems/shortest-path-in-a-hidden-grid",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1779. Find Nearest Point That Has the Same X or Y Coordinate",
+        "url": "https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1780. Check if Number is a Sum of Powers of Three",
+        "url": "https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1781. Sum of Beauty of All Substrings",
+        "url": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1782. Count Pairs Of Nodes",
+        "url": "https://leetcode.com/problems/count-pairs-of-nodes",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1783. Grand Slam Titles",
+        "url": "https://leetcode.com/problems/grand-slam-titles",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1784. Check if Binary String Has at Most One Segment of Ones",
+        "url": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1785. Minimum Elements to Add to Form a Given Sum",
+        "url": "https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1786. Number of Restricted Paths From First to Last Node",
+        "url": "https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1787. Make the XOR of All Segments Equal to Zero",
+        "url": "https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1788. Maximize the Beauty of the Garden",
+        "url": "https://leetcode.com/problems/maximize-the-beauty-of-the-garden",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1789. Primary Department for Each Employee",
+        "url": "https://leetcode.com/problems/primary-department-for-each-employee",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1790. Check if One String Swap Can Make Strings Equal",
+        "url": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1791. Find Center of Star Graph",
+        "url": "https://leetcode.com/problems/find-center-of-star-graph",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1792. Maximum Average Pass Ratio",
+        "url": "https://leetcode.com/problems/maximum-average-pass-ratio",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1793. Maximum Score of a Good Subarray",
+        "url": "https://leetcode.com/problems/maximum-score-of-a-good-subarray",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1794. Count Pairs of Equal Substrings With Minimum Difference",
+        "url": "https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1795. Rearrange Products Table",
+        "url": "https://leetcode.com/problems/rearrange-products-table",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1796. Second Largest Digit in a String",
+        "url": "https://leetcode.com/problems/second-largest-digit-in-a-string",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1797. Design Authentication Manager",
+        "url": "https://leetcode.com/problems/design-authentication-manager",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1798. Maximum Number of Consecutive Values You Can Make",
+        "url": "https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1799. Maximize Score After N Operations",
+        "url": "https://leetcode.com/problems/maximize-score-after-n-operations",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1800. Maximum Ascending Subarray Sum",
+        "url": "https://leetcode.com/problems/maximum-ascending-subarray-sum",
+        "difficulty": "Easy"
+    }
+]

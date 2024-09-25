@@ -1,0 +1,252 @@
+[
+    {
+        "name": "2301. Match Substring After Replacement",
+        "url": "https://leetcode.com/problems/match-substring-after-replacement",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2302. Count Subarrays With Score Less Than K",
+        "url": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2303. Calculate Amount Paid in Taxes",
+        "url": "https://leetcode.com/problems/calculate-amount-paid-in-taxes",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2304. Minimum Path Cost in a Grid",
+        "url": "https://leetcode.com/problems/minimum-path-cost-in-a-grid",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2305. Fair Distribution of Cookies",
+        "url": "https://leetcode.com/problems/fair-distribution-of-cookies",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2306. Naming a Company",
+        "url": "https://leetcode.com/problems/naming-a-company",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2307. Check for Contradictions in Equations",
+        "url": "https://leetcode.com/problems/check-for-contradictions-in-equations",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2308. Arrange Table by Gender",
+        "url": "https://leetcode.com/problems/arrange-table-by-gender",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2309. Greatest English Letter in Upper and Lower Case",
+        "url": "https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2310. Sum of Numbers With Units Digit K",
+        "url": "https://leetcode.com/problems/sum-of-numbers-with-units-digit-k",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2311. Longest Binary Subsequence Less Than or Equal to K",
+        "url": "https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2312. Selling Pieces of Wood",
+        "url": "https://leetcode.com/problems/selling-pieces-of-wood",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2313. Minimum Flips in Binary Tree to Get Result",
+        "url": "https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2314. The First Day of the Maximum Recorded Degree in Each City",
+        "url": "https://leetcode.com/problems/the-first-day-of-the-maximum-recorded-degree-in-each-city",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2315. Count Asterisks",
+        "url": "https://leetcode.com/problems/count-asterisks",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2316. Count Unreachable Pairs of Nodes in an Undirected Graph",
+        "url": "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2317. Maximum XOR After Operations",
+        "url": "https://leetcode.com/problems/maximum-xor-after-operations",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2318. Number of Distinct Roll Sequences",
+        "url": "https://leetcode.com/problems/number-of-distinct-roll-sequences",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2319. Check if Matrix Is X-Matrix",
+        "url": "https://leetcode.com/problems/check-if-matrix-is-x-matrix",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2320. Count Number of Ways to Place Houses",
+        "url": "https://leetcode.com/problems/count-number-of-ways-to-place-houses",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2321. Maximum Score Of Spliced Array",
+        "url": "https://leetcode.com/problems/maximum-score-of-spliced-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2322. Minimum Score After Removals on a Tree",
+        "url": "https://leetcode.com/problems/minimum-score-after-removals-on-a-tree",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2323. Find Minimum Time to Finish All Jobs II",
+        "url": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2324. Product Sales Analysis IV",
+        "url": "https://leetcode.com/problems/product-sales-analysis-iv",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2325. Decode the Message",
+        "url": "https://leetcode.com/problems/decode-the-message",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2326. Spiral Matrix IV",
+        "url": "https://leetcode.com/problems/spiral-matrix-iv",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2327. Number of People Aware of a Secret",
+        "url": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2328. Number of Increasing Paths in a Grid",
+        "url": "https://leetcode.com/problems/number-of-increasing-paths-in-a-grid",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2329. Product Sales Analysis V",
+        "url": "https://leetcode.com/problems/product-sales-analysis-v",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2330. Valid Palindrome IV",
+        "url": "https://leetcode.com/problems/valid-palindrome-iv",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2331. Evaluate Boolean Binary Tree",
+        "url": "https://leetcode.com/problems/evaluate-boolean-binary-tree",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2332. The Latest Time to Catch a Bus",
+        "url": "https://leetcode.com/problems/the-latest-time-to-catch-a-bus",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2333. Minimum Sum of Squared Difference",
+        "url": "https://leetcode.com/problems/minimum-sum-of-squared-difference",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2334. Subarray With Elements Greater Than Varying Threshold",
+        "url": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2335. Minimum Amount of Time to Fill Cups",
+        "url": "https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2336. Smallest Number in Infinite Set",
+        "url": "https://leetcode.com/problems/smallest-number-in-infinite-set",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2337. Move Pieces to Obtain a String",
+        "url": "https://leetcode.com/problems/move-pieces-to-obtain-a-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2338. Count the Number of Ideal Arrays",
+        "url": "https://leetcode.com/problems/count-the-number-of-ideal-arrays",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2339. All the Matches of the League",
+        "url": "https://leetcode.com/problems/all-the-matches-of-the-league",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2340. Minimum Adjacent Swaps to Make a Valid Array",
+        "url": "https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2341. Maximum Number of Pairs in Array",
+        "url": "https://leetcode.com/problems/maximum-number-of-pairs-in-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2342. Max Sum of a Pair With Equal Sum of Digits",
+        "url": "https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2343. Query Kth Smallest Trimmed Number",
+        "url": "https://leetcode.com/problems/query-kth-smallest-trimmed-number",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2344. Minimum Deletions to Make Array Divisible",
+        "url": "https://leetcode.com/problems/minimum-deletions-to-make-array-divisible",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2345. Finding the Number of Visible Mountains",
+        "url": "https://leetcode.com/problems/finding-the-number-of-visible-mountains",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2346. Compute the Rank as a Percentage",
+        "url": "https://leetcode.com/problems/compute-the-rank-as-a-percentage",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2347. Best Poker Hand",
+        "url": "https://leetcode.com/problems/best-poker-hand",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2348. Number of Zero-Filled Subarrays",
+        "url": "https://leetcode.com/problems/number-of-zero-filled-subarrays",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2349. Design a Number Container System",
+        "url": "https://leetcode.com/problems/design-a-number-container-system",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2350. Shortest Impossible Sequence of Rolls",
+        "url": "https://leetcode.com/problems/shortest-impossible-sequence-of-rolls",
+        "difficulty": "Hard"
+    }
+]

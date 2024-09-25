@@ -1,0 +1,252 @@
+[
+    {
+        "name": "3001. Minimum Moves to Capture The Queen",
+        "url": "https://leetcode.com/problems/minimum-moves-to-capture-the-queen",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3002. Maximum Size of a Set After Removals",
+        "url": "https://leetcode.com/problems/maximum-size-of-a-set-after-removals",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3003. Maximize the Number of Partitions After Operations",
+        "url": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3004. Maximum Subtree of the Same Color",
+        "url": "https://leetcode.com/problems/maximum-subtree-of-the-same-color",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3005. Count Elements With Maximum Frequency",
+        "url": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3006. Find Beautiful Indices in the Given Array I",
+        "url": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K",
+        "url": "https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3008. Find Beautiful Indices in the Given Array II",
+        "url": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3009. Maximum Number of Intersections on the Chart",
+        "url": "https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3010. Divide an Array Into Subarrays With Minimum Cost I",
+        "url": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3011. Find if Array Can Be Sorted",
+        "url": "https://leetcode.com/problems/find-if-array-can-be-sorted",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3012. Minimize Length of Array Using Operations",
+        "url": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3013. Divide an Array Into Subarrays With Minimum Cost II",
+        "url": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3014. Minimum Number of Pushes to Type Word I",
+        "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3015. Count the Number of Houses at a Certain Distance I",
+        "url": "https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3016. Minimum Number of Pushes to Type Word II",
+        "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3017. Count the Number of Houses at a Certain Distance II",
+        "url": "https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3018. Maximum Number of Removal Queries That Can Be Processed I",
+        "url": "https://leetcode.com/problems/maximum-number-of-removal-queries-that-can-be-processed-i",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3019. Number of Changing Keys",
+        "url": "https://leetcode.com/problems/number-of-changing-keys",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3020. Find the Maximum Number of Elements in Subset",
+        "url": "https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3021. Alice and Bob Playing Flower Game",
+        "url": "https://leetcode.com/problems/alice-and-bob-playing-flower-game",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3022. Minimize OR of Remaining Elements Using Operations",
+        "url": "https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3023. Find Pattern in Infinite Stream I",
+        "url": "https://leetcode.com/problems/find-pattern-in-infinite-stream-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3024. Type of Triangle",
+        "url": "https://leetcode.com/problems/type-of-triangle",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3025. Find the Number of Ways to Place People I",
+        "url": "https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3026. Maximum Good Subarray Sum",
+        "url": "https://leetcode.com/problems/maximum-good-subarray-sum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3027. Find the Number of Ways to Place People II",
+        "url": "https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3028. Ant on the Boundary",
+        "url": "https://leetcode.com/problems/ant-on-the-boundary",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3029. Minimum Time to Revert Word to Initial State I",
+        "url": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3030. Find the Grid of Region Average",
+        "url": "https://leetcode.com/problems/find-the-grid-of-region-average",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3031. Minimum Time to Revert Word to Initial State II",
+        "url": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3032. Count Numbers With Unique Digits II",
+        "url": "https://leetcode.com/problems/count-numbers-with-unique-digits-ii",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3033. Modify the Matrix",
+        "url": "https://leetcode.com/problems/modify-the-matrix",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3034. Number of Subarrays That Match a Pattern I",
+        "url": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3035. Maximum Palindromes After Operations",
+        "url": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3036. Number of Subarrays That Match a Pattern II",
+        "url": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3037. Find Pattern in Infinite Stream II",
+        "url": "https://leetcode.com/problems/find-pattern-in-infinite-stream-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3038. Maximum Number of Operations With the Same Score I",
+        "url": "https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3039. Apply Operations to Make String Empty",
+        "url": "https://leetcode.com/problems/apply-operations-to-make-string-empty",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3040. Maximum Number of Operations With the Same Score II",
+        "url": "https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3041. Maximize Consecutive Elements in an Array After Modification",
+        "url": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3042. Count Prefix and Suffix Pairs I",
+        "url": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3043. Find the Length of the Longest Common Prefix",
+        "url": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3044. Most Frequent Prime",
+        "url": "https://leetcode.com/problems/most-frequent-prime",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3045. Count Prefix and Suffix Pairs II",
+        "url": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3046. Split the Array",
+        "url": "https://leetcode.com/problems/split-the-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3047. Find the Largest Area of Square Inside Two Rectangles",
+        "url": "https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3048. Earliest Second to Mark Indices I",
+        "url": "https://leetcode.com/problems/earliest-second-to-mark-indices-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3049. Earliest Second to Mark Indices II",
+        "url": "https://leetcode.com/problems/earliest-second-to-mark-indices-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3050. Pizza Toppings Cost Analysis",
+        "url": "https://leetcode.com/problems/pizza-toppings-cost-analysis",
+        "difficulty": "Medium"
+    }
+]

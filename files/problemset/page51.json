@@ -1,0 +1,252 @@
+[
+    {
+        "name": "2501. Longest Square Streak in an Array",
+        "url": "https://leetcode.com/problems/longest-square-streak-in-an-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2502. Design Memory Allocator",
+        "url": "https://leetcode.com/problems/design-memory-allocator",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2503. Maximum Number of Points From Grid Queries",
+        "url": "https://leetcode.com/problems/maximum-number-of-points-from-grid-queries",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2504. Concatenate the Name and the Profession",
+        "url": "https://leetcode.com/problems/concatenate-the-name-and-the-profession",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2505. Bitwise OR of All Subsequence Sums",
+        "url": "https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2506. Count Pairs Of Similar Strings",
+        "url": "https://leetcode.com/problems/count-pairs-of-similar-strings",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2507. Smallest Value After Replacing With Sum of Prime Factors",
+        "url": "https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2508. Add Edges to Make Degrees of All Nodes Even",
+        "url": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2509. Cycle Length Queries in a Tree",
+        "url": "https://leetcode.com/problems/cycle-length-queries-in-a-tree",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2510. Check if There is a Path With Equal Number of 0's And 1's",
+        "url": "https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2511. Maximum Enemy Forts That Can Be Captured",
+        "url": "https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2512. Reward Top K Students",
+        "url": "https://leetcode.com/problems/reward-top-k-students",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2513. Minimize the Maximum of Two Arrays",
+        "url": "https://leetcode.com/problems/minimize-the-maximum-of-two-arrays",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2514. Count Anagrams",
+        "url": "https://leetcode.com/problems/count-anagrams",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2515. Shortest Distance to Target String in a Circular Array",
+        "url": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2516. Take K of Each Character From Left and Right",
+        "url": "https://leetcode.com/problems/take-k-of-each-character-from-left-and-right",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2517. Maximum Tastiness of Candy Basket",
+        "url": "https://leetcode.com/problems/maximum-tastiness-of-candy-basket",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2518. Number of Great Partitions",
+        "url": "https://leetcode.com/problems/number-of-great-partitions",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2519. Count the Number of K-Big Indices",
+        "url": "https://leetcode.com/problems/count-the-number-of-k-big-indices",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2520. Count the Digits That Divide a Number",
+        "url": "https://leetcode.com/problems/count-the-digits-that-divide-a-number",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2521. Distinct Prime Factors of Product of Array",
+        "url": "https://leetcode.com/problems/distinct-prime-factors-of-product-of-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2522. Partition String Into Substrings With Values at Most K",
+        "url": "https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2523. Closest Prime Numbers in Range",
+        "url": "https://leetcode.com/problems/closest-prime-numbers-in-range",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2524. Maximum Frequency Score of a Subarray",
+        "url": "https://leetcode.com/problems/maximum-frequency-score-of-a-subarray",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2525. Categorize Box According to Criteria",
+        "url": "https://leetcode.com/problems/categorize-box-according-to-criteria",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2526. Find Consecutive Integers from a Data Stream",
+        "url": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2527. Find Xor-Beauty of Array",
+        "url": "https://leetcode.com/problems/find-xor-beauty-of-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2528. Maximize the Minimum Powered City",
+        "url": "https://leetcode.com/problems/maximize-the-minimum-powered-city",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2529. Maximum Count of Positive Integer and Negative Integer",
+        "url": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2530. Maximal Score After Applying K Operations",
+        "url": "https://leetcode.com/problems/maximal-score-after-applying-k-operations",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2531. Make Number of Distinct Characters Equal",
+        "url": "https://leetcode.com/problems/make-number-of-distinct-characters-equal",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2532. Time to Cross a Bridge",
+        "url": "https://leetcode.com/problems/time-to-cross-a-bridge",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2533. Number of Good Binary Strings",
+        "url": "https://leetcode.com/problems/number-of-good-binary-strings",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2534. Time Taken to Cross the Door",
+        "url": "https://leetcode.com/problems/time-taken-to-cross-the-door",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2535. Difference Between Element Sum and Digit Sum of an Array",
+        "url": "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2536. Increment Submatrices by One",
+        "url": "https://leetcode.com/problems/increment-submatrices-by-one",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2537. Count the Number of Good Subarrays",
+        "url": "https://leetcode.com/problems/count-the-number-of-good-subarrays",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2538. Difference Between Maximum and Minimum Price Sum",
+        "url": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2539. Count the Number of Good Subsequences",
+        "url": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2540. Minimum Common Value",
+        "url": "https://leetcode.com/problems/minimum-common-value",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2541. Minimum Operations to Make Array Equal II",
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2542. Maximum Subsequence Score",
+        "url": "https://leetcode.com/problems/maximum-subsequence-score",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2543. Check if Point Is Reachable",
+        "url": "https://leetcode.com/problems/check-if-point-is-reachable",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2544. Alternating Digit Sum",
+        "url": "https://leetcode.com/problems/alternating-digit-sum",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2545. Sort the Students by Their Kth Score",
+        "url": "https://leetcode.com/problems/sort-the-students-by-their-kth-score",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2546. Apply Bitwise Operations to Make Strings Equal",
+        "url": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2547. Minimum Cost to Split an Array",
+        "url": "https://leetcode.com/problems/minimum-cost-to-split-an-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2548. Maximum Price to Fill a Bag",
+        "url": "https://leetcode.com/problems/maximum-price-to-fill-a-bag",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2549. Count Distinct Numbers on Board",
+        "url": "https://leetcode.com/problems/count-distinct-numbers-on-board",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2550. Count Collisions of Monkeys on a Polygon",
+        "url": "https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon",
+        "difficulty": "Medium"
+    }
+]

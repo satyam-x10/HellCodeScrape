@@ -1,0 +1,252 @@
+[
+    {
+        "name": "3151. Special Array I",
+        "url": "https://leetcode.com/problems/special-array-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3152. Special Array II",
+        "url": "https://leetcode.com/problems/special-array-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3153. Sum of Digit Differences of All Pairs",
+        "url": "https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3154. Find Number of Ways to Reach the K-th Stair",
+        "url": "https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3155. Maximum Number of Upgradable Servers",
+        "url": "https://leetcode.com/problems/maximum-number-of-upgradable-servers",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3156. Employee Task Duration and Concurrent Tasks",
+        "url": "https://leetcode.com/problems/employee-task-duration-and-concurrent-tasks",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3157. Find the Level of Tree with Minimum Sum",
+        "url": "https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3158. Find the XOR of Numbers Which Appear Twice",
+        "url": "https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3159. Find Occurrences of an Element in an Array",
+        "url": "https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3160. Find the Number of Distinct Colors Among the Balls",
+        "url": "https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3161. Block Placement Queries",
+        "url": "https://leetcode.com/problems/block-placement-queries",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3162. Find the Number of Good Pairs I",
+        "url": "https://leetcode.com/problems/find-the-number-of-good-pairs-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3163. String Compression III",
+        "url": "https://leetcode.com/problems/string-compression-iii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3164. Find the Number of Good Pairs II",
+        "url": "https://leetcode.com/problems/find-the-number-of-good-pairs-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3165. Maximum Sum of Subsequence With Non-adjacent Elements",
+        "url": "https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3166. Calculate Parking Fees and Duration",
+        "url": "https://leetcode.com/problems/calculate-parking-fees-and-duration",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3167. Better Compression of String",
+        "url": "https://leetcode.com/problems/better-compression-of-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3168. Minimum Number of Chairs in a Waiting Room",
+        "url": "https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3169. Count Days Without Meetings",
+        "url": "https://leetcode.com/problems/count-days-without-meetings",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3170. Lexicographically Minimum String After Removing Stars",
+        "url": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3171. Find Subarray With Bitwise OR Closest to K",
+        "url": "https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3172. Second Day Verification",
+        "url": "https://leetcode.com/problems/second-day-verification",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3173. Bitwise OR of Adjacent Elements",
+        "url": "https://leetcode.com/problems/bitwise-or-of-adjacent-elements",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3174. Clear Digits",
+        "url": "https://leetcode.com/problems/clear-digits",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3175. Find The First Player to win K Games in a Row",
+        "url": "https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3176. Find the Maximum Length of a Good Subsequence I",
+        "url": "https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3177. Find the Maximum Length of a Good Subsequence II",
+        "url": "https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3178. Find the Child Who Has the Ball After K Seconds",
+        "url": "https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3179. Find the N-th Value After K Seconds",
+        "url": "https://leetcode.com/problems/find-the-n-th-value-after-k-seconds",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3180. Maximum Total Reward Using Operations I",
+        "url": "https://leetcode.com/problems/maximum-total-reward-using-operations-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3181. Maximum Total Reward Using Operations II",
+        "url": "https://leetcode.com/problems/maximum-total-reward-using-operations-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3182. Find Top Scoring Students",
+        "url": "https://leetcode.com/problems/find-top-scoring-students",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3183. The Number of Ways to Make the Sum",
+        "url": "https://leetcode.com/problems/the-number-of-ways-to-make-the-sum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3184. Count Pairs That Form a Complete Day I",
+        "url": "https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3185. Count Pairs That Form a Complete Day II",
+        "url": "https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3186. Maximum Total Damage With Spell Casting",
+        "url": "https://leetcode.com/problems/maximum-total-damage-with-spell-casting",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3187. Peaks in Array",
+        "url": "https://leetcode.com/problems/peaks-in-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3188. Find Top Scoring Students II",
+        "url": "https://leetcode.com/problems/find-top-scoring-students-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3189. Minimum Moves to Get a Peaceful Board",
+        "url": "https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3190. Find Minimum Operations to Make All Elements Divisible by Three",
+        "url": "https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3191. Minimum Operations to Make Binary Array Elements Equal to One I",
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3192. Minimum Operations to Make Binary Array Elements Equal to One II",
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3193. Count the Number of Inversions",
+        "url": "https://leetcode.com/problems/count-the-number-of-inversions",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3194. Minimum Average of Smallest and Largest Elements",
+        "url": "https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3195. Find the Minimum Area to Cover All Ones I",
+        "url": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3196. Maximize Total Cost of Alternating Subarrays",
+        "url": "https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3197. Find the Minimum Area to Cover All Ones II",
+        "url": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3198. Find Cities in Each State",
+        "url": "https://leetcode.com/problems/find-cities-in-each-state",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3199. Count Triplets with Even XOR Set Bits I",
+        "url": "https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3200. Maximum Height of a Triangle",
+        "url": "https://leetcode.com/problems/maximum-height-of-a-triangle",
+        "difficulty": "Easy"
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "name": "1851. Minimum Interval to Include Each Query",
+        "url": "https://leetcode.com/problems/minimum-interval-to-include-each-query",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1852. Distinct Numbers in Each Subarray",
+        "url": "https://leetcode.com/problems/distinct-numbers-in-each-subarray",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1853. Convert Date Format",
+        "url": "https://leetcode.com/problems/convert-date-format",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1854. Maximum Population Year",
+        "url": "https://leetcode.com/problems/maximum-population-year",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1855. Maximum Distance Between a Pair of Values",
+        "url": "https://leetcode.com/problems/maximum-distance-between-a-pair-of-values",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1856. Maximum Subarray Min-Product",
+        "url": "https://leetcode.com/problems/maximum-subarray-min-product",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1857. Largest Color Value in a Directed Graph",
+        "url": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1858. Longest Word With All Prefixes",
+        "url": "https://leetcode.com/problems/longest-word-with-all-prefixes",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1859. Sorting the Sentence",
+        "url": "https://leetcode.com/problems/sorting-the-sentence",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1860. Incremental Memory Leak",
+        "url": "https://leetcode.com/problems/incremental-memory-leak",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1861. Rotating the Box",
+        "url": "https://leetcode.com/problems/rotating-the-box",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1862. Sum of Floored Pairs",
+        "url": "https://leetcode.com/problems/sum-of-floored-pairs",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1863. Sum of All Subset XOR Totals",
+        "url": "https://leetcode.com/problems/sum-of-all-subset-xor-totals",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1864. Minimum Number of Swaps to Make the Binary String Alternating",
+        "url": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1865. Finding Pairs With a Certain Sum",
+        "url": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1866. Number of Ways to Rearrange Sticks With K Sticks Visible",
+        "url": "https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1867. Orders With Maximum Quantity Above Average",
+        "url": "https://leetcode.com/problems/orders-with-maximum-quantity-above-average",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1868. Product of Two Run-Length Encoded Arrays",
+        "url": "https://leetcode.com/problems/product-of-two-run-length-encoded-arrays",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1869. Longer Contiguous Segments of Ones than Zeros",
+        "url": "https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1870. Minimum Speed to Arrive on Time",
+        "url": "https://leetcode.com/problems/minimum-speed-to-arrive-on-time",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1871. Jump Game VII",
+        "url": "https://leetcode.com/problems/jump-game-vii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1872. Stone Game VIII",
+        "url": "https://leetcode.com/problems/stone-game-viii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1873. Calculate Special Bonus",
+        "url": "https://leetcode.com/problems/calculate-special-bonus",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1874. Minimize Product Sum of Two Arrays",
+        "url": "https://leetcode.com/problems/minimize-product-sum-of-two-arrays",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1875. Group Employees of the Same Salary",
+        "url": "https://leetcode.com/problems/group-employees-of-the-same-salary",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1876. Substrings of Size Three with Distinct Characters",
+        "url": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1877. Minimize Maximum Pair Sum in Array",
+        "url": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1878. Get Biggest Three Rhombus Sums in a Grid",
+        "url": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1879. Minimum XOR Sum of Two Arrays",
+        "url": "https://leetcode.com/problems/minimum-xor-sum-of-two-arrays",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1880. Check if Word Equals Summation of Two Words",
+        "url": "https://leetcode.com/problems/check-if-word-equals-summation-of-two-words",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1881. Maximum Value after Insertion",
+        "url": "https://leetcode.com/problems/maximum-value-after-insertion",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1882. Process Tasks Using Servers",
+        "url": "https://leetcode.com/problems/process-tasks-using-servers",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1883. Minimum Skips to Arrive at Meeting On Time",
+        "url": "https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1884. Egg Drop With 2 Eggs and N Floors",
+        "url": "https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1885. Count Pairs in Two Arrays",
+        "url": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1886. Determine Whether Matrix Can Be Obtained By Rotation",
+        "url": "https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1887. Reduction Operations to Make the Array Elements Equal",
+        "url": "https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1888. Minimum Number of Flips to Make the Binary String Alternating",
+        "url": "https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1889. Minimum Space Wasted From Packaging",
+        "url": "https://leetcode.com/problems/minimum-space-wasted-from-packaging",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1890. The Latest Login in 2020",
+        "url": "https://leetcode.com/problems/the-latest-login-in-2020",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1891. Cutting Ribbons",
+        "url": "https://leetcode.com/problems/cutting-ribbons",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1892. Page Recommendations II",
+        "url": "https://leetcode.com/problems/page-recommendations-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1893. Check if All the Integers in a Range Are Covered",
+        "url": "https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1894. Find the Student that Will Replace the Chalk",
+        "url": "https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1895. Largest Magic Square",
+        "url": "https://leetcode.com/problems/largest-magic-square",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1896. Minimum Cost to Change the Final Value of Expression",
+        "url": "https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1897. Redistribute Characters to Make All Strings Equal",
+        "url": "https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1898. Maximum Number of Removable Characters",
+        "url": "https://leetcode.com/problems/maximum-number-of-removable-characters",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1899. Merge Triplets to Form Target Triplet",
+        "url": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1900. The Earliest and Latest Rounds Where Players Compete",
+        "url": "https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete",
+        "difficulty": "Hard"
+    }
+]

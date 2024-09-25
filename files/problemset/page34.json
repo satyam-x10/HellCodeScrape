@@ -1,0 +1,252 @@
+[
+    {
+        "name": "1651. Hopper Company Queries III",
+        "url": "https://leetcode.com/problems/hopper-company-queries-iii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1652. Defuse the Bomb",
+        "url": "https://leetcode.com/problems/defuse-the-bomb",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1653. Minimum Deletions to Make String Balanced",
+        "url": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1654. Minimum Jumps to Reach Home",
+        "url": "https://leetcode.com/problems/minimum-jumps-to-reach-home",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1655. Distribute Repeating Integers",
+        "url": "https://leetcode.com/problems/distribute-repeating-integers",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1656. Design an Ordered Stream",
+        "url": "https://leetcode.com/problems/design-an-ordered-stream",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1657. Determine if Two Strings Are Close",
+        "url": "https://leetcode.com/problems/determine-if-two-strings-are-close",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1658. Minimum Operations to Reduce X to Zero",
+        "url": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1659. Maximize Grid Happiness",
+        "url": "https://leetcode.com/problems/maximize-grid-happiness",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1660. Correct a Binary Tree",
+        "url": "https://leetcode.com/problems/correct-a-binary-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1661. Average Time of Process per Machine",
+        "url": "https://leetcode.com/problems/average-time-of-process-per-machine",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1662. Check If Two String Arrays are Equivalent",
+        "url": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1663. Smallest String With A Given Numeric Value",
+        "url": "https://leetcode.com/problems/smallest-string-with-a-given-numeric-value",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1664. Ways to Make a Fair Array",
+        "url": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1665. Minimum Initial Energy to Finish Tasks",
+        "url": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1666. Change the Root of a Binary Tree",
+        "url": "https://leetcode.com/problems/change-the-root-of-a-binary-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1667. Fix Names in a Table",
+        "url": "https://leetcode.com/problems/fix-names-in-a-table",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1668. Maximum Repeating Substring",
+        "url": "https://leetcode.com/problems/maximum-repeating-substring",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1669. Merge In Between Linked Lists",
+        "url": "https://leetcode.com/problems/merge-in-between-linked-lists",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1670. Design Front Middle Back Queue",
+        "url": "https://leetcode.com/problems/design-front-middle-back-queue",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1671. Minimum Number of Removals to Make Mountain Array",
+        "url": "https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1672. Richest Customer Wealth",
+        "url": "https://leetcode.com/problems/richest-customer-wealth",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1673. Find the Most Competitive Subsequence",
+        "url": "https://leetcode.com/problems/find-the-most-competitive-subsequence",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1674. Minimum Moves to Make Array Complementary",
+        "url": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1675. Minimize Deviation in Array",
+        "url": "https://leetcode.com/problems/minimize-deviation-in-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1676. Lowest Common Ancestor of a Binary Tree IV",
+        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1677. Product's Worth Over Invoices",
+        "url": "https://leetcode.com/problems/products-worth-over-invoices",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1678. Goal Parser Interpretation",
+        "url": "https://leetcode.com/problems/goal-parser-interpretation",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1679. Max Number of K-Sum Pairs",
+        "url": "https://leetcode.com/problems/max-number-of-k-sum-pairs",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1680. Concatenation of Consecutive Binary Numbers",
+        "url": "https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1681. Minimum Incompatibility",
+        "url": "https://leetcode.com/problems/minimum-incompatibility",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1682. Longest Palindromic Subsequence II",
+        "url": "https://leetcode.com/problems/longest-palindromic-subsequence-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1683. Invalid Tweets",
+        "url": "https://leetcode.com/problems/invalid-tweets",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1684. Count the Number of Consistent Strings",
+        "url": "https://leetcode.com/problems/count-the-number-of-consistent-strings",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1685. Sum of Absolute Differences in a Sorted Array",
+        "url": "https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1686. Stone Game VI",
+        "url": "https://leetcode.com/problems/stone-game-vi",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1687. Delivering Boxes from Storage to Ports",
+        "url": "https://leetcode.com/problems/delivering-boxes-from-storage-to-ports",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1688. Count of Matches in Tournament",
+        "url": "https://leetcode.com/problems/count-of-matches-in-tournament",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1689. Partitioning Into Minimum Number Of Deci-Binary Numbers",
+        "url": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1690. Stone Game VII",
+        "url": "https://leetcode.com/problems/stone-game-vii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1691. Maximum Height by Stacking Cuboids",
+        "url": "https://leetcode.com/problems/maximum-height-by-stacking-cuboids",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1692. Count Ways to Distribute Candies",
+        "url": "https://leetcode.com/problems/count-ways-to-distribute-candies",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1693. Daily Leads and Partners",
+        "url": "https://leetcode.com/problems/daily-leads-and-partners",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1694. Reformat Phone Number",
+        "url": "https://leetcode.com/problems/reformat-phone-number",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1695. Maximum Erasure Value",
+        "url": "https://leetcode.com/problems/maximum-erasure-value",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1696. Jump Game VI",
+        "url": "https://leetcode.com/problems/jump-game-vi",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1697. Checking Existence of Edge Length Limited Paths",
+        "url": "https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1698. Number of Distinct Substrings in a String",
+        "url": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1699. Number of Calls Between Two Persons",
+        "url": "https://leetcode.com/problems/number-of-calls-between-two-persons",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1700. Number of Students Unable to Eat Lunch",
+        "url": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch",
+        "difficulty": "Easy"
+    }
+]

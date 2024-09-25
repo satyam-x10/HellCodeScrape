@@ -1,0 +1,252 @@
+[
+    {
+        "name": "2001. Number of Pairs of Interchangeable Rectangles",
+        "url": "https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2002. Maximum Product of the Length of Two Palindromic Subsequences",
+        "url": "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2003. Smallest Missing Genetic Value in Each Subtree",
+        "url": "https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2004. The Number of Seniors and Juniors to Join the Company",
+        "url": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2005. Subtree Removal Game with Fibonacci Tree",
+        "url": "https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2006. Count Number of Pairs With Absolute Difference K",
+        "url": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2007. Find Original Array From Doubled Array",
+        "url": "https://leetcode.com/problems/find-original-array-from-doubled-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2008. Maximum Earnings From Taxi",
+        "url": "https://leetcode.com/problems/maximum-earnings-from-taxi",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2009. Minimum Number of Operations to Make Array Continuous",
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2010. The Number of Seniors and Juniors to Join the Company II",
+        "url": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2011. Final Value of Variable After Performing Operations",
+        "url": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2012. Sum of Beauty in the Array",
+        "url": "https://leetcode.com/problems/sum-of-beauty-in-the-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2013. Detect Squares",
+        "url": "https://leetcode.com/problems/detect-squares",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2014. Longest Subsequence Repeated k Times",
+        "url": "https://leetcode.com/problems/longest-subsequence-repeated-k-times",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2015. Average Height of Buildings in Each Segment",
+        "url": "https://leetcode.com/problems/average-height-of-buildings-in-each-segment",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2016. Maximum Difference Between Increasing Elements",
+        "url": "https://leetcode.com/problems/maximum-difference-between-increasing-elements",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2017. Grid Game",
+        "url": "https://leetcode.com/problems/grid-game",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2018. Check if Word Can Be Placed In Crossword",
+        "url": "https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2019. The Score of Students Solving Math Expression",
+        "url": "https://leetcode.com/problems/the-score-of-students-solving-math-expression",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2020. Number of Accounts That Did Not Stream",
+        "url": "https://leetcode.com/problems/number-of-accounts-that-did-not-stream",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2021. Brightest Position on Street",
+        "url": "https://leetcode.com/problems/brightest-position-on-street",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2022. Convert 1D Array Into 2D Array",
+        "url": "https://leetcode.com/problems/convert-1d-array-into-2d-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2023. Number of Pairs of Strings With Concatenation Equal to Target",
+        "url": "https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2024. Maximize the Confusion of an Exam",
+        "url": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2025. Maximum Number of Ways to Partition an Array",
+        "url": "https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2026. Low-Quality Problems",
+        "url": "https://leetcode.com/problems/low-quality-problems",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2027. Minimum Moves to Convert String",
+        "url": "https://leetcode.com/problems/minimum-moves-to-convert-string",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2028. Find Missing Observations",
+        "url": "https://leetcode.com/problems/find-missing-observations",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2029. Stone Game IX",
+        "url": "https://leetcode.com/problems/stone-game-ix",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2030. Smallest K-Length Subsequence With Occurrences of a Letter",
+        "url": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2031. Count Subarrays With More Ones Than Zeros",
+        "url": "https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2032. Two Out of Three",
+        "url": "https://leetcode.com/problems/two-out-of-three",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2033. Minimum Operations to Make a Uni-Value Grid",
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2034. Stock Price Fluctuation",
+        "url": "https://leetcode.com/problems/stock-price-fluctuation",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2035. Partition Array Into Two Arrays to Minimize Sum Difference",
+        "url": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2036. Maximum Alternating Subarray Sum",
+        "url": "https://leetcode.com/problems/maximum-alternating-subarray-sum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2037. Minimum Number of Moves to Seat Everyone",
+        "url": "https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2038. Remove Colored Pieces if Both Neighbors are the Same Color",
+        "url": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2039. The Time When the Network Becomes Idle",
+        "url": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2040. Kth Smallest Product of Two Sorted Arrays",
+        "url": "https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2041. Accepted Candidates From the Interviews",
+        "url": "https://leetcode.com/problems/accepted-candidates-from-the-interviews",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2042. Check if Numbers Are Ascending in a Sentence",
+        "url": "https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2043. Simple Bank System",
+        "url": "https://leetcode.com/problems/simple-bank-system",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2044. Count Number of Maximum Bitwise-OR Subsets",
+        "url": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2045. Second Minimum Time to Reach Destination",
+        "url": "https://leetcode.com/problems/second-minimum-time-to-reach-destination",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "2046. Sort Linked List Already Sorted Using Absolute Values",
+        "url": "https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2047. Number of Valid Words in a Sentence",
+        "url": "https://leetcode.com/problems/number-of-valid-words-in-a-sentence",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "2048. Next Greater Numerically Balanced Number",
+        "url": "https://leetcode.com/problems/next-greater-numerically-balanced-number",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2049. Count Nodes With the Highest Score",
+        "url": "https://leetcode.com/problems/count-nodes-with-the-highest-score",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "2050. Parallel Courses III",
+        "url": "https://leetcode.com/problems/parallel-courses-iii",
+        "difficulty": "Hard"
+    }
+]

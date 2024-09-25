@@ -1,0 +1,252 @@
+[
+    {
+        "name": "1351. Count Negative Numbers in a Sorted Matrix",
+        "url": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1352. Product of the Last K Numbers",
+        "url": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1353. Maximum Number of Events That Can Be Attended",
+        "url": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1354. Construct Target Array With Multiple Sums",
+        "url": "https://leetcode.com/problems/construct-target-array-with-multiple-sums",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1355. Activity Participants",
+        "url": "https://leetcode.com/problems/activity-participants",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1356. Sort Integers by The Number of 1 Bits",
+        "url": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1357. Apply Discount Every n Orders",
+        "url": "https://leetcode.com/problems/apply-discount-every-n-orders",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1358. Number of Substrings Containing All Three Characters",
+        "url": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1359. Count All Valid Pickup and Delivery Options",
+        "url": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1360. Number of Days Between Two Dates",
+        "url": "https://leetcode.com/problems/number-of-days-between-two-dates",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1361. Validate Binary Tree Nodes",
+        "url": "https://leetcode.com/problems/validate-binary-tree-nodes",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1362. Closest Divisors",
+        "url": "https://leetcode.com/problems/closest-divisors",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1363. Largest Multiple of Three",
+        "url": "https://leetcode.com/problems/largest-multiple-of-three",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1364. Number of Trusted Contacts of a Customer",
+        "url": "https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1365. How Many Numbers Are Smaller Than the Current Number",
+        "url": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1366. Rank Teams by Votes",
+        "url": "https://leetcode.com/problems/rank-teams-by-votes",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1367. Linked List in Binary Tree",
+        "url": "https://leetcode.com/problems/linked-list-in-binary-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1368. Minimum Cost to Make at Least One Valid Path in a Grid",
+        "url": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1369. Get the Second Most Recent Activity",
+        "url": "https://leetcode.com/problems/get-the-second-most-recent-activity",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1370. Increasing Decreasing String",
+        "url": "https://leetcode.com/problems/increasing-decreasing-string",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1371. Find the Longest Substring Containing Vowels in Even Counts",
+        "url": "https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1372. Longest ZigZag Path in a Binary Tree",
+        "url": "https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1373. Maximum Sum BST in Binary Tree",
+        "url": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1374. Generate a String With Characters That Have Odd Counts",
+        "url": "https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1375. Number of Times Binary String Is Prefix-Aligned",
+        "url": "https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1376. Time Needed to Inform All Employees",
+        "url": "https://leetcode.com/problems/time-needed-to-inform-all-employees",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1377. Frog Position After T Seconds",
+        "url": "https://leetcode.com/problems/frog-position-after-t-seconds",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1378. Replace Employee ID With The Unique Identifier",
+        "url": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+        "url": "https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1380. Lucky Numbers in a Matrix",
+        "url": "https://leetcode.com/problems/lucky-numbers-in-a-matrix",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1381. Design a Stack With Increment Operation",
+        "url": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1382. Balance a Binary Search Tree",
+        "url": "https://leetcode.com/problems/balance-a-binary-search-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1383. Maximum Performance of a Team",
+        "url": "https://leetcode.com/problems/maximum-performance-of-a-team",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1384. Total Sales Amount by Year",
+        "url": "https://leetcode.com/problems/total-sales-amount-by-year",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1385. Find the Distance Value Between Two Arrays",
+        "url": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1386. Cinema Seat Allocation",
+        "url": "https://leetcode.com/problems/cinema-seat-allocation",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1387. Sort Integers by The Power Value",
+        "url": "https://leetcode.com/problems/sort-integers-by-the-power-value",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1388. Pizza With 3n Slices",
+        "url": "https://leetcode.com/problems/pizza-with-3n-slices",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1389. Create Target Array in the Given Order",
+        "url": "https://leetcode.com/problems/create-target-array-in-the-given-order",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1390. Four Divisors",
+        "url": "https://leetcode.com/problems/four-divisors",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1391. Check if There is a Valid Path in a Grid",
+        "url": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1392. Longest Happy Prefix",
+        "url": "https://leetcode.com/problems/longest-happy-prefix",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1393. Capital Gain/Loss",
+        "url": "https://leetcode.com/problems/capital-gainloss",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1394. Find Lucky Integer in an Array",
+        "url": "https://leetcode.com/problems/find-lucky-integer-in-an-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1395. Count Number of Teams",
+        "url": "https://leetcode.com/problems/count-number-of-teams",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1396. Design Underground System",
+        "url": "https://leetcode.com/problems/design-underground-system",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1397. Find All Good Strings",
+        "url": "https://leetcode.com/problems/find-all-good-strings",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1398. Customers Who Bought Products A and B but Not C",
+        "url": "https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1399. Count Largest Group",
+        "url": "https://leetcode.com/problems/count-largest-group",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1400. Construct K Palindrome Strings",
+        "url": "https://leetcode.com/problems/construct-k-palindrome-strings",
+        "difficulty": "Medium"
+    }
+]

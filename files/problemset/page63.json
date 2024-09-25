@@ -1,0 +1,252 @@
+[
+    {
+        "name": "3101. Count Alternating Subarrays",
+        "url": "https://leetcode.com/problems/count-alternating-subarrays",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3102. Minimize Manhattan Distances",
+        "url": "https://leetcode.com/problems/minimize-manhattan-distances",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3103. Find Trending Hashtags II",
+        "url": "https://leetcode.com/problems/find-trending-hashtags-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3104. Find Longest Self-Contained Substring",
+        "url": "https://leetcode.com/problems/find-longest-self-contained-substring",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3105. Longest Strictly Increasing or Strictly Decreasing Subarray",
+        "url": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3106. Lexicographically Smallest String After Operations With Constraint",
+        "url": "https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3107. Minimum Operations to Make Median of Array Equal to K",
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3108. Minimum Cost Walk in Weighted Graph",
+        "url": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3109. Find the Index of Permutation",
+        "url": "https://leetcode.com/problems/find-the-index-of-permutation",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3110. Score of a String",
+        "url": "https://leetcode.com/problems/score-of-a-string",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3111. Minimum Rectangles to Cover Points",
+        "url": "https://leetcode.com/problems/minimum-rectangles-to-cover-points",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3112. Minimum Time to Visit Disappearing Nodes",
+        "url": "https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3113. Find the Number of Subarrays Where Boundary Elements Are Maximum",
+        "url": "https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3114. Latest Time You Can Obtain After Replacing Characters",
+        "url": "https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3115. Maximum Prime Difference",
+        "url": "https://leetcode.com/problems/maximum-prime-difference",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3116. Kth Smallest Amount With Single Denomination Combination",
+        "url": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3117. Minimum Sum of Values by Dividing Array",
+        "url": "https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3118. Friday Purchase III",
+        "url": "https://leetcode.com/problems/friday-purchase-iii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3119. Maximum Number of Potholes That Can Be Fixed",
+        "url": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3120. Count the Number of Special Characters I",
+        "url": "https://leetcode.com/problems/count-the-number-of-special-characters-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3121. Count the Number of Special Characters II",
+        "url": "https://leetcode.com/problems/count-the-number-of-special-characters-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3122. Minimum Number of Operations to Satisfy Conditions",
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3123. Find Edges in Shortest Paths",
+        "url": "https://leetcode.com/problems/find-edges-in-shortest-paths",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3124. Find Longest Calls",
+        "url": "https://leetcode.com/problems/find-longest-calls",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3125. Maximum Number That Makes Result of Bitwise AND Zero",
+        "url": "https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3126. Server Utilization Time",
+        "url": "https://leetcode.com/problems/server-utilization-time",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3127. Make a Square with the Same Color",
+        "url": "https://leetcode.com/problems/make-a-square-with-the-same-color",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3128. Right Triangles",
+        "url": "https://leetcode.com/problems/right-triangles",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3129. Find All Possible Stable Binary Arrays I",
+        "url": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3130. Find All Possible Stable Binary Arrays II",
+        "url": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3131. Find the Integer Added to Array I",
+        "url": "https://leetcode.com/problems/find-the-integer-added-to-array-i",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3132. Find the Integer Added to Array II",
+        "url": "https://leetcode.com/problems/find-the-integer-added-to-array-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3133. Minimum Array End",
+        "url": "https://leetcode.com/problems/minimum-array-end",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3134. Find the Median of the Uniqueness Array",
+        "url": "https://leetcode.com/problems/find-the-median-of-the-uniqueness-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3135. Equalize Strings by Adding or Removing Characters at Ends",
+        "url": "https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3136. Valid Word",
+        "url": "https://leetcode.com/problems/valid-word",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3137. Minimum Number of Operations to Make Word K-Periodic",
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3138. Minimum Length of Anagram Concatenation",
+        "url": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3139. Minimum Cost to Equalize Array",
+        "url": "https://leetcode.com/problems/minimum-cost-to-equalize-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3140. Consecutive Available Seats II",
+        "url": "https://leetcode.com/problems/consecutive-available-seats-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3141. Maximum Hamming Distances",
+        "url": "https://leetcode.com/problems/maximum-hamming-distances",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3142. Check if Grid Satisfies Conditions",
+        "url": "https://leetcode.com/problems/check-if-grid-satisfies-conditions",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3143. Maximum Points Inside the Square",
+        "url": "https://leetcode.com/problems/maximum-points-inside-the-square",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3144. Minimum Substring Partition of Equal Character Frequency",
+        "url": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3145. Find Products of Elements of Big Array",
+        "url": "https://leetcode.com/problems/find-products-of-elements-of-big-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3146. Permutation Difference between Two Strings",
+        "url": "https://leetcode.com/problems/permutation-difference-between-two-strings",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "3147. Taking Maximum Energy From the Mystic Dungeon",
+        "url": "https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3148. Maximum Difference Score in a Grid",
+        "url": "https://leetcode.com/problems/maximum-difference-score-in-a-grid",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "3149. Find the Minimum Cost Array Permutation",
+        "url": "https://leetcode.com/problems/find-the-minimum-cost-array-permutation",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "3150. Invalid Tweets II",
+        "url": "https://leetcode.com/problems/invalid-tweets-ii",
+        "difficulty": "Easy"
+    }
+]

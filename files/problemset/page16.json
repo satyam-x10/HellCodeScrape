@@ -1,0 +1,252 @@
+[
+    {
+        "name": "751. IP to CIDR",
+        "url": "https://leetcode.com/problems/ip-to-cidr",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "752. Open the Lock",
+        "url": "https://leetcode.com/problems/open-the-lock",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "753. Cracking the Safe",
+        "url": "https://leetcode.com/problems/cracking-the-safe",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "754. Reach a Number",
+        "url": "https://leetcode.com/problems/reach-a-number",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "755. Pour Water",
+        "url": "https://leetcode.com/problems/pour-water",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "756. Pyramid Transition Matrix",
+        "url": "https://leetcode.com/problems/pyramid-transition-matrix",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "757. Set Intersection Size At Least Two",
+        "url": "https://leetcode.com/problems/set-intersection-size-at-least-two",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "758. Bold Words in String",
+        "url": "https://leetcode.com/problems/bold-words-in-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "759. Employee Free Time",
+        "url": "https://leetcode.com/problems/employee-free-time",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "760. Find Anagram Mappings",
+        "url": "https://leetcode.com/problems/find-anagram-mappings",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "761. Special Binary String",
+        "url": "https://leetcode.com/problems/special-binary-string",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "762. Prime Number of Set Bits in Binary Representation",
+        "url": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "763. Partition Labels",
+        "url": "https://leetcode.com/problems/partition-labels",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "764. Largest Plus Sign",
+        "url": "https://leetcode.com/problems/largest-plus-sign",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "765. Couples Holding Hands",
+        "url": "https://leetcode.com/problems/couples-holding-hands",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "766. Toeplitz Matrix",
+        "url": "https://leetcode.com/problems/toeplitz-matrix",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "767. Reorganize String",
+        "url": "https://leetcode.com/problems/reorganize-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "768. Max Chunks To Make Sorted II",
+        "url": "https://leetcode.com/problems/max-chunks-to-make-sorted-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "769. Max Chunks To Make Sorted",
+        "url": "https://leetcode.com/problems/max-chunks-to-make-sorted",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "770. Basic Calculator IV",
+        "url": "https://leetcode.com/problems/basic-calculator-iv",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "771. Jewels and Stones",
+        "url": "https://leetcode.com/problems/jewels-and-stones",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "772. Basic Calculator III",
+        "url": "https://leetcode.com/problems/basic-calculator-iii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "773. Sliding Puzzle",
+        "url": "https://leetcode.com/problems/sliding-puzzle",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "774. Minimize Max Distance to Gas Station",
+        "url": "https://leetcode.com/problems/minimize-max-distance-to-gas-station",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "775. Global and Local Inversions",
+        "url": "https://leetcode.com/problems/global-and-local-inversions",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "776. Split BST",
+        "url": "https://leetcode.com/problems/split-bst",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "777. Swap Adjacent in LR String",
+        "url": "https://leetcode.com/problems/swap-adjacent-in-lr-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "778. Swim in Rising Water",
+        "url": "https://leetcode.com/problems/swim-in-rising-water",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "779. K-th Symbol in Grammar",
+        "url": "https://leetcode.com/problems/k-th-symbol-in-grammar",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "780. Reaching Points",
+        "url": "https://leetcode.com/problems/reaching-points",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "781. Rabbits in Forest",
+        "url": "https://leetcode.com/problems/rabbits-in-forest",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "782. Transform to Chessboard",
+        "url": "https://leetcode.com/problems/transform-to-chessboard",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "783. Minimum Distance Between BST Nodes",
+        "url": "https://leetcode.com/problems/minimum-distance-between-bst-nodes",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "784. Letter Case Permutation",
+        "url": "https://leetcode.com/problems/letter-case-permutation",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "785. Is Graph Bipartite?",
+        "url": "https://leetcode.com/problems/is-graph-bipartite",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "786. K-th Smallest Prime Fraction",
+        "url": "https://leetcode.com/problems/k-th-smallest-prime-fraction",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "787. Cheapest Flights Within K Stops",
+        "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "788. Rotated Digits",
+        "url": "https://leetcode.com/problems/rotated-digits",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "789. Escape The Ghosts",
+        "url": "https://leetcode.com/problems/escape-the-ghosts",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "790. Domino and Tromino Tiling",
+        "url": "https://leetcode.com/problems/domino-and-tromino-tiling",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "791. Custom Sort String",
+        "url": "https://leetcode.com/problems/custom-sort-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "792. Number of Matching Subsequences",
+        "url": "https://leetcode.com/problems/number-of-matching-subsequences",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "793. Preimage Size of Factorial Zeroes Function",
+        "url": "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "794. Valid Tic-Tac-Toe State",
+        "url": "https://leetcode.com/problems/valid-tic-tac-toe-state",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "795. Number of Subarrays with Bounded Maximum",
+        "url": "https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "796. Rotate String",
+        "url": "https://leetcode.com/problems/rotate-string",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "797. All Paths From Source to Target",
+        "url": "https://leetcode.com/problems/all-paths-from-source-to-target",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "798. Smallest Rotation with Highest Score",
+        "url": "https://leetcode.com/problems/smallest-rotation-with-highest-score",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "799. Champagne Tower",
+        "url": "https://leetcode.com/problems/champagne-tower",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "800. Similar RGB Color",
+        "url": "https://leetcode.com/problems/similar-rgb-color",
+        "difficulty": "Easy"
+    }
+]

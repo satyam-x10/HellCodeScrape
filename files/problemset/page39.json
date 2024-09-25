@@ -1,0 +1,252 @@
+[
+    {
+        "name": "1901. Find a Peak Element II",
+        "url": "https://leetcode.com/problems/find-a-peak-element-ii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1902. Depth of BST Given Insertion Order",
+        "url": "https://leetcode.com/problems/depth-of-bst-given-insertion-order",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1903. Largest Odd Number in String",
+        "url": "https://leetcode.com/problems/largest-odd-number-in-string",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1904. The Number of Full Rounds You Have Played",
+        "url": "https://leetcode.com/problems/the-number-of-full-rounds-you-have-played",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1905. Count Sub Islands",
+        "url": "https://leetcode.com/problems/count-sub-islands",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1906. Minimum Absolute Difference Queries",
+        "url": "https://leetcode.com/problems/minimum-absolute-difference-queries",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1907. Count Salary Categories",
+        "url": "https://leetcode.com/problems/count-salary-categories",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1908. Game of Nim",
+        "url": "https://leetcode.com/problems/game-of-nim",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1909. Remove One Element to Make the Array Strictly Increasing",
+        "url": "https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1910. Remove All Occurrences of a Substring",
+        "url": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1911. Maximum Alternating Subsequence Sum",
+        "url": "https://leetcode.com/problems/maximum-alternating-subsequence-sum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1912. Design Movie Rental System",
+        "url": "https://leetcode.com/problems/design-movie-rental-system",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1913. Maximum Product Difference Between Two Pairs",
+        "url": "https://leetcode.com/problems/maximum-product-difference-between-two-pairs",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1914. Cyclically Rotating a Grid",
+        "url": "https://leetcode.com/problems/cyclically-rotating-a-grid",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1915. Number of Wonderful Substrings",
+        "url": "https://leetcode.com/problems/number-of-wonderful-substrings",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1916. Count Ways to Build Rooms in an Ant Colony",
+        "url": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1917. Leetcodify Friends Recommendations",
+        "url": "https://leetcode.com/problems/leetcodify-friends-recommendations",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1918. Kth Smallest Subarray Sum",
+        "url": "https://leetcode.com/problems/kth-smallest-subarray-sum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1919. Leetcodify Similar Friends",
+        "url": "https://leetcode.com/problems/leetcodify-similar-friends",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1920. Build Array from Permutation",
+        "url": "https://leetcode.com/problems/build-array-from-permutation",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1921. Eliminate Maximum Number of Monsters",
+        "url": "https://leetcode.com/problems/eliminate-maximum-number-of-monsters",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1922. Count Good Numbers",
+        "url": "https://leetcode.com/problems/count-good-numbers",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1923. Longest Common Subpath",
+        "url": "https://leetcode.com/problems/longest-common-subpath",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1924. Erect the Fence II",
+        "url": "https://leetcode.com/problems/erect-the-fence-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1925. Count Square Sum Triples",
+        "url": "https://leetcode.com/problems/count-square-sum-triples",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1926. Nearest Exit from Entrance in Maze",
+        "url": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1927. Sum Game",
+        "url": "https://leetcode.com/problems/sum-game",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1928. Minimum Cost to Reach Destination in Time",
+        "url": "https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1929. Concatenation of Array",
+        "url": "https://leetcode.com/problems/concatenation-of-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1930. Unique Length-3 Palindromic Subsequences",
+        "url": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1931. Painting a Grid With Three Different Colors",
+        "url": "https://leetcode.com/problems/painting-a-grid-with-three-different-colors",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1932. Merge BSTs to Create Single BST",
+        "url": "https://leetcode.com/problems/merge-bsts-to-create-single-bst",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1933. Check if String Is Decomposable Into Value-Equal Substrings",
+        "url": "https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1934. Confirmation Rate",
+        "url": "https://leetcode.com/problems/confirmation-rate",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1935. Maximum Number of Words You Can Type",
+        "url": "https://leetcode.com/problems/maximum-number-of-words-you-can-type",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1936. Add Minimum Number of Rungs",
+        "url": "https://leetcode.com/problems/add-minimum-number-of-rungs",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1937. Maximum Number of Points with Cost",
+        "url": "https://leetcode.com/problems/maximum-number-of-points-with-cost",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1938. Maximum Genetic Difference Query",
+        "url": "https://leetcode.com/problems/maximum-genetic-difference-query",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1939. Users That Actively Request Confirmation Messages",
+        "url": "https://leetcode.com/problems/users-that-actively-request-confirmation-messages",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1940. Longest Common Subsequence Between Sorted Arrays",
+        "url": "https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1941. Check if All Characters Have Equal Number of Occurrences",
+        "url": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1942. The Number of the Smallest Unoccupied Chair",
+        "url": "https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1943. Describe the Painting",
+        "url": "https://leetcode.com/problems/describe-the-painting",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1944. Number of Visible People in a Queue",
+        "url": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1945. Sum of Digits of String After Convert",
+        "url": "https://leetcode.com/problems/sum-of-digits-of-string-after-convert",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1946. Largest Number After Mutating Substring",
+        "url": "https://leetcode.com/problems/largest-number-after-mutating-substring",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1947. Maximum Compatibility Score Sum",
+        "url": "https://leetcode.com/problems/maximum-compatibility-score-sum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1948. Delete Duplicate Folders in System",
+        "url": "https://leetcode.com/problems/delete-duplicate-folders-in-system",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1949. Strong Friendship",
+        "url": "https://leetcode.com/problems/strong-friendship",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1950. Maximum of Minimum Values in All Subarrays",
+        "url": "https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays",
+        "difficulty": "Medium"
+    }
+]

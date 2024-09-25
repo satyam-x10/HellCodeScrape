@@ -1,0 +1,4 @@
+{
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "description": "Given a string s, return the longest \npalindromic\n \nsubstring\n in s.\n\n \n\nExample 1:\n\nInput: s = \"babad\"\nOutput: \"bab\"\nExplanation: \"aba\" is also a valid answer.\n\n\nExample 2:\n\nInput: s = \"cbbd\"\nOutput: \"bb\"\n\n\n \n\nConstraints:\n\n1 <= s.length <= 1000\ns consist of only digits and English letters."
+}

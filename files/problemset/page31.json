@@ -1,0 +1,252 @@
+[
+    {
+        "name": "1501. Countries You Can Safely Invest In",
+        "url": "https://leetcode.com/problems/countries-you-can-safely-invest-in",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1502. Can Make Arithmetic Progression From Sequence",
+        "url": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1503. Last Moment Before All Ants Fall Out of a Plank",
+        "url": "https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1504. Count Submatrices With All Ones",
+        "url": "https://leetcode.com/problems/count-submatrices-with-all-ones",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+        "url": "https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1506. Find Root of N-Ary Tree",
+        "url": "https://leetcode.com/problems/find-root-of-n-ary-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1507. Reformat Date",
+        "url": "https://leetcode.com/problems/reformat-date",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1508. Range Sum of Sorted Subarray Sums",
+        "url": "https://leetcode.com/problems/range-sum-of-sorted-subarray-sums",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1509. Minimum Difference Between Largest and Smallest Value in Three Moves",
+        "url": "https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1510. Stone Game IV",
+        "url": "https://leetcode.com/problems/stone-game-iv",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1511. Customer Order Frequency",
+        "url": "https://leetcode.com/problems/customer-order-frequency",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1512. Number of Good Pairs",
+        "url": "https://leetcode.com/problems/number-of-good-pairs",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1513. Number of Substrings With Only 1s",
+        "url": "https://leetcode.com/problems/number-of-substrings-with-only-1s",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1514. Path with Maximum Probability",
+        "url": "https://leetcode.com/problems/path-with-maximum-probability",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1515. Best Position for a Service Centre",
+        "url": "https://leetcode.com/problems/best-position-for-a-service-centre",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1516. Move Sub-Tree of N-Ary Tree",
+        "url": "https://leetcode.com/problems/move-sub-tree-of-n-ary-tree",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1517. Find Users With Valid E-Mails",
+        "url": "https://leetcode.com/problems/find-users-with-valid-e-mails",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1518. Water Bottles",
+        "url": "https://leetcode.com/problems/water-bottles",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1519. Number of Nodes in the Sub-Tree With the Same Label",
+        "url": "https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1520. Maximum Number of Non-Overlapping Substrings",
+        "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1521. Find a Value of a Mysterious Function Closest to Target",
+        "url": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1522. Diameter of N-Ary Tree",
+        "url": "https://leetcode.com/problems/diameter-of-n-ary-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1523. Count Odd Numbers in an Interval Range",
+        "url": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1524. Number of Sub-arrays With Odd Sum",
+        "url": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1525. Number of Good Ways to Split a String",
+        "url": "https://leetcode.com/problems/number-of-good-ways-to-split-a-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1526. Minimum Number of Increments on Subarrays to Form a Target Array",
+        "url": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1527. Patients With a Condition",
+        "url": "https://leetcode.com/problems/patients-with-a-condition",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1528. Shuffle String",
+        "url": "https://leetcode.com/problems/shuffle-string",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1529. Minimum Suffix Flips",
+        "url": "https://leetcode.com/problems/minimum-suffix-flips",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1530. Number of Good Leaf Nodes Pairs",
+        "url": "https://leetcode.com/problems/number-of-good-leaf-nodes-pairs",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1531. String Compression II",
+        "url": "https://leetcode.com/problems/string-compression-ii",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1532. The Most Recent Three Orders",
+        "url": "https://leetcode.com/problems/the-most-recent-three-orders",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1533. Find the Index of the Large Integer",
+        "url": "https://leetcode.com/problems/find-the-index-of-the-large-integer",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1534. Count Good Triplets",
+        "url": "https://leetcode.com/problems/count-good-triplets",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1535. Find the Winner of an Array Game",
+        "url": "https://leetcode.com/problems/find-the-winner-of-an-array-game",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1536. Minimum Swaps to Arrange a Binary Grid",
+        "url": "https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1537. Get the Maximum Score",
+        "url": "https://leetcode.com/problems/get-the-maximum-score",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1538. Guess the Majority in a Hidden Array",
+        "url": "https://leetcode.com/problems/guess-the-majority-in-a-hidden-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1539. Kth Missing Positive Number",
+        "url": "https://leetcode.com/problems/kth-missing-positive-number",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1540. Can Convert String in K Moves",
+        "url": "https://leetcode.com/problems/can-convert-string-in-k-moves",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1541. Minimum Insertions to Balance a Parentheses String",
+        "url": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1542. Find Longest Awesome Substring",
+        "url": "https://leetcode.com/problems/find-longest-awesome-substring",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1543. Fix Product Name Format",
+        "url": "https://leetcode.com/problems/fix-product-name-format",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1544. Make The String Great",
+        "url": "https://leetcode.com/problems/make-the-string-great",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1545. Find Kth Bit in Nth Binary String",
+        "url": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target",
+        "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1547. Minimum Cost to Cut a Stick",
+        "url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1548. The Most Similar Path in a Graph",
+        "url": "https://leetcode.com/problems/the-most-similar-path-in-a-graph",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1549. The Most Recent Orders for Each Product",
+        "url": "https://leetcode.com/problems/the-most-recent-orders-for-each-product",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1550. Three Consecutive Odds",
+        "url": "https://leetcode.com/problems/three-consecutive-odds",
+        "difficulty": "Easy"
+    }
+]

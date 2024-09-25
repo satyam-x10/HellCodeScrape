@@ -1,0 +1,252 @@
+[
+    {
+        "name": "1801. Number of Orders in the Backlog",
+        "url": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1802. Maximum Value at a Given Index in a Bounded Array",
+        "url": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1803. Count Pairs With XOR in a Range",
+        "url": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1804. Implement Trie II (Prefix Tree)",
+        "url": "https://leetcode.com/problems/implement-trie-ii-prefix-tree",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1805. Number of Different Integers in a String",
+        "url": "https://leetcode.com/problems/number-of-different-integers-in-a-string",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1806. Minimum Number of Operations to Reinitialize a Permutation",
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1807. Evaluate the Bracket Pairs of a String",
+        "url": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1808. Maximize Number of Nice Divisors",
+        "url": "https://leetcode.com/problems/maximize-number-of-nice-divisors",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1809. Ad-Free Sessions",
+        "url": "https://leetcode.com/problems/ad-free-sessions",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1810. Minimum Path Cost in a Hidden Grid",
+        "url": "https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1811. Find Interview Candidates",
+        "url": "https://leetcode.com/problems/find-interview-candidates",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1812. Determine Color of a Chessboard Square",
+        "url": "https://leetcode.com/problems/determine-color-of-a-chessboard-square",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1813. Sentence Similarity III",
+        "url": "https://leetcode.com/problems/sentence-similarity-iii",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1814. Count Nice Pairs in an Array",
+        "url": "https://leetcode.com/problems/count-nice-pairs-in-an-array",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1815. Maximum Number of Groups Getting Fresh Donuts",
+        "url": "https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1816. Truncate Sentence",
+        "url": "https://leetcode.com/problems/truncate-sentence",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1817. Finding the Users Active Minutes",
+        "url": "https://leetcode.com/problems/finding-the-users-active-minutes",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1818. Minimum Absolute Sum Difference",
+        "url": "https://leetcode.com/problems/minimum-absolute-sum-difference",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1819. Number of Different Subsequences GCDs",
+        "url": "https://leetcode.com/problems/number-of-different-subsequences-gcds",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1820. Maximum Number of Accepted Invitations",
+        "url": "https://leetcode.com/problems/maximum-number-of-accepted-invitations",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1821. Find Customers With Positive Revenue this Year",
+        "url": "https://leetcode.com/problems/find-customers-with-positive-revenue-this-year",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1822. Sign of the Product of an Array",
+        "url": "https://leetcode.com/problems/sign-of-the-product-of-an-array",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1823. Find the Winner of the Circular Game",
+        "url": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1824. Minimum Sideway Jumps",
+        "url": "https://leetcode.com/problems/minimum-sideway-jumps",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1825. Finding MK Average",
+        "url": "https://leetcode.com/problems/finding-mk-average",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1826. Faulty Sensor",
+        "url": "https://leetcode.com/problems/faulty-sensor",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1827. Minimum Operations to Make the Array Increasing",
+        "url": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1828. Queries on Number of Points Inside a Circle",
+        "url": "https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1829. Maximum XOR for Each Query",
+        "url": "https://leetcode.com/problems/maximum-xor-for-each-query",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1830. Minimum Number of Operations to Make String Sorted",
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1831. Maximum Transaction Each Day",
+        "url": "https://leetcode.com/problems/maximum-transaction-each-day",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1832. Check if the Sentence Is Pangram",
+        "url": "https://leetcode.com/problems/check-if-the-sentence-is-pangram",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1833. Maximum Ice Cream Bars",
+        "url": "https://leetcode.com/problems/maximum-ice-cream-bars",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1834. Single-Threaded CPU",
+        "url": "https://leetcode.com/problems/single-threaded-cpu",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1835. Find XOR Sum of All Pairs Bitwise AND",
+        "url": "https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1836. Remove Duplicates From an Unsorted Linked List",
+        "url": "https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1837. Sum of Digits in Base K",
+        "url": "https://leetcode.com/problems/sum-of-digits-in-base-k",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1838. Frequency of the Most Frequent Element",
+        "url": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1839. Longest Substring Of All Vowels in Order",
+        "url": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1840. Maximum Building Height",
+        "url": "https://leetcode.com/problems/maximum-building-height",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1841. League Statistics",
+        "url": "https://leetcode.com/problems/league-statistics",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1842. Next Palindrome Using Same Digits",
+        "url": "https://leetcode.com/problems/next-palindrome-using-same-digits",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1843. Suspicious Bank Accounts",
+        "url": "https://leetcode.com/problems/suspicious-bank-accounts",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1844. Replace All Digits with Characters",
+        "url": "https://leetcode.com/problems/replace-all-digits-with-characters",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1845. Seat Reservation Manager",
+        "url": "https://leetcode.com/problems/seat-reservation-manager",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1846. Maximum Element After Decreasing and Rearranging",
+        "url": "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1847. Closest Room",
+        "url": "https://leetcode.com/problems/closest-room",
+        "difficulty": "Hard"
+    },
+    {
+        "name": "1848. Minimum Distance to the Target Element",
+        "url": "https://leetcode.com/problems/minimum-distance-to-the-target-element",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "1849. Splitting a String Into Descending Consecutive Values",
+        "url": "https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values",
+        "difficulty": "Medium"
+    },
+    {
+        "name": "1850. Minimum Adjacent Swaps to Reach the Kth Smallest Number",
+        "url": "https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number",
+        "difficulty": "Medium"
+    }
+]
