@@ -7,16 +7,16 @@ const baseUrl = "https://leetcode.com/problemset/?page=";
 
 // Function to scrape individual question details from the provided URL
 const scrapeQuestionDetails = async (url) => {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({
+    headless: true, // Ensure this is set to true for GitHub Actions
+    args: ["--no-sandbox", "--disable-setuid-sandbox"], // Necessary for CI environments
+  });
   const page = await browser.newPage();
 
-  // Go to the question description page
   await page.goto(url, { waitUntil: "networkidle2" });
 
-  // Wait for the necessary elements to load
   await page.waitForSelector(".elfjS");
 
-  // Scrape the question description from the page
   const questionDetails = await page.evaluate(() => {
     const descriptionDiv = document.querySelector(".elfjS");
     const description = descriptionDiv
