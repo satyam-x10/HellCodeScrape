@@ -33,49 +33,27 @@ const scrapeQuestionDetails = async (url) => {
 };
 
 // Function to scrape data from a single page (i.e., the list of questions)
-const scrapeQuestionsFromPage = async (page, pageNumber) => {
-  console.log(`Scraping question list from page ${pageNumber}...`);
+const scrapeQuestionsFromPage = async (pageNumber) => {
+  console.log(`Loading questions from page ${pageNumber}...`);
 
-  // Go to the problem set page
-  await page.goto(baseUrl + pageNumber, { waitUntil: "networkidle2" });
+  // Path to the locally stored JSON file
+  const filePath = path.join(__dirname, 'files', 'problemset', `page${pageNumber}.json`);
 
-  // Wait for the table of problems to load
-  await page.waitForSelector('div[role="rowgroup"]');
+  // Check if the file exists
+  if (!fs.existsSync(filePath)) {
+    throw new Error(`File for page ${pageNumber} not found: ${filePath}`);
+  }
 
-  // Scrape the list of questions from the page
-  const questions = await page.evaluate(() => {
-    const rows = document.querySelectorAll(
-      'div[role="rowgroup"] div[role="row"]'
-    );
-    const questionList = [];
-
-    rows.forEach((row) => {
-      // Get the question name and URL
-      const nameTag = row.querySelector("a[href]");
-      const questionName = nameTag ? nameTag.textContent.trim() : null;
-      const questionUrl = nameTag
-        ? "https://leetcode.com" + nameTag.getAttribute("href")
-        : null;
-
-      // Append the question details to the list
-      if (questionName && questionUrl) {
-        questionList.push({
-          name: questionName,
-          url: questionUrl,
-        });
-      }
-    });
-
-    return questionList;
-  });
+  // Read the file contents and parse the JSON data
+  const fileContents = fs.readFileSync(filePath, 'utf-8');
+  const questions = JSON.parse(fileContents);
 
   return questions;
 };
 
 // Main function to scrape all question pages and their details
 const scrapeLeetCode = async () => {
-  const browser = await puppeteer.launch({ headless: false });
-  const page = await browser.newPage();
+  
 
   // Directory to save the question descriptions
   const descriptionDir = path.join(__dirname, "files/description");
@@ -85,7 +63,7 @@ const scrapeLeetCode = async () => {
 
   // Loop through all the pages (1 to 66)
   for (let pageNumber = 1; pageNumber <= 1; pageNumber++) {
-    const questions = await scrapeQuestionsFromPage(page, pageNumber);
+    const questions = await scrapeQuestionsFromPage( pageNumber);
 
     for (const question of questions) {
       console.log(`Scraping details for: ${question.url}`);
@@ -117,7 +95,6 @@ const scrapeLeetCode = async () => {
     }
   }
 
-  await browser.close();
   console.log("All questions and descriptions scraped and saved successfully!");
 };
 
